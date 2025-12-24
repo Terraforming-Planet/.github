@@ -684,6 +684,45 @@ Significance for the Future
 Terraforming Planet is not only a technical engineering achievement but also a moral obligation to future generations. The project responds to challenges related to climate change, environmental pollution, and population growth. By developing terraforming technologies, we can secure our future, enabling humanity to survive and thrive in space. It is also a step toward greater independence from Earth’s resources, which may prove invaluable in the context of future challenges related to space exploration and the colonization of other planets.
 
 
+<p align="center">
+  <a href="#img3">⬅️</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#img2">➡️</a>
+</p>
+
+
+<p align="center" id="img1">
+<img width="1024" height="1024" alt="19754" src="https://github.com/user-attachments/assets/3a26f5a9-26d6-4446-9c79-941f0e48e081" />
+
+</p>
+
+
+<p align="center">
+  <a href="#img1">⬅️</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#img3">➡️</a>
+</p>
+
+
+<p align="center" id="img2">
+<img width="1024" height="1024" alt="19750" src="https://github.com/user-attachments/assets/f2a51575-dacf-4eda-91d9-fb5da3cf8c66" />
+
+</p>
+
+
+<p align="center">
+  <a href="#img2">⬅️</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#img1">➡️</a>
+</p>
+
+
+<p align="center" id="img3">
+<img width="1024" height="1024" alt="19753" src="https://github.com/user-attachments/assets/1107b86b-34ee-446a-9334-b2781fbf048d" />
+
+</p>
+
+Terraforming Planet 
 
 
 Hi there 👋
