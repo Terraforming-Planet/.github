@@ -2,6 +2,7 @@
 ![19015](https://github.com/user-attachments/assets/7b99b6b3-7a45-4887-9cbe-be32eb4d89b8)
 ![19007](https://github.com/user-attachments/assets/855299b3-35c7-4185-80c0-8047c3e842c0)
 
+**PL**
 Dzień dobry,
 
 
@@ -296,7 +297,7 @@ Terraforming Planet to nie tylko techniczny wyczyn inżynieryjny, ale także mor
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-EN
+**EN**
 
 ---
 
