@@ -1,3 +1,88 @@
+**Terraforming Planet** to niezależna fundacja technologiczno-inżynieryjna, której celem jest rozwiązywanie źródłowych przyczyn globalnych kryzysów humanitarnych i środowiskowych — a nie tylko ich skutków.
+
+Projektujemy i wdrażamy realne, fizyczne systemy inżynieryjne, które przywracają dostęp do wody, żywności, żyznej gleby oraz stabilnych lokalnych warunków klimatycznych.
+Nasze działania opierają się na nauce, inżynierii i długofalowej odpowiedzialności — ponad polityką i ponad granicami.
+
+50% wszystkich przychodów z licencjonowania naszych technologii jest trwale i strukturalnie przeznaczone na działalność fundacji.
+Nie jest to marketing ani deklaracja — to fundament architektury całego projektu.
+
+Wierzymy, że jeśli ludzkość nauczy się właściwie zarządzać wodą, ziemią i energią, konflikty można ograniczać u źródła, zanim w ogóle powstaną.
+
+
+---
+
+🌈 Zasady współpracy — jak społeczność może się zaangażować?
+
+Nie musisz być darczyńcą, aby pomóc. Możesz współtworzyć, testować, analizować i zadawać trudne pytania.
+
+Możliwe formy zaangażowania:
+
+🌍 Inżynierowie i naukowcy — projektowanie systemów odzysku wody, maszyn OZE i inżynierii krajobrazu
+
+🧠 Badacze — modele, symulacje i długoterminowe analizy klimatyczne oraz ekosystemowe
+
+🛠️ Technicy i makerzy — prototypowanie, testy terenowe, iteracje rozwiązań
+
+📐 Architekci i planiści — projektowanie struktur terenowych, systemów cienia i środowisk odpornych
+
+🌱 Praktycy środowiskowi — wiedza z rzek, delt, pustyń i zdegradowanych terenów
+
+🌐 Społeczność — dzielenie się wiedzą, krytyczne myślenie i pilnowanie transparentności
+
+
+Liczy się realny wkład, nie stanowisko czy tytuł.
+
+
+---
+
+👩‍💻 Przydatne zasoby — gdzie znaleźć dokumentację?
+
+To repozytorium będzie zawierać:
+
+📄 dokumentację techniczną i notatki projektowe
+
+🧪 kierunki badań i koncepcje eksperymentalne
+
+🗺️ studia przypadków środowiskowych i regiony działań
+
+⚙️ otwarte dyskusje inżynieryjne i prototypy
+
+
+Dodatkowe materiały (udostępniane w miarę rozwoju projektu):
+
+statut i zasady fundacji
+
+publiczne roadmapy i kamienie milowe
+
+publikacje, symulacje i zbiory danych
+
+
+Jeśli coś jest niejasne — to sygnał do poprawy dokumentacji. Przejrzystość jest celowa.
+
+
+---
+
+🍿 Ciekawostki — co jemy na śniadanie?
+
+Jesteśmy inżynierami, więc śniadania są proste:
+
+☕ mocna kawa
+
+🥣 jedzenie, które nie spowalnia myślenia
+
+🌞 czasem… pomysły większe niż doba
+
+
+Nie mamy jednego menu. Mamy ciekawość, wytrwałość i brak zgody na odpowiedź „nie da się”.
+
+
+---
+
+> 🧙 Z pomocą Ai i ludzi , inżynierii i myślenia długoterminowego nawet problemy w skali planety stają się wykonalne.
+
+
+
+
 ![19016](https://github.com/user-attachments/assets/21636b73-1e7c-418f-835f-597ad366ab32)
 ![19015](https://github.com/user-attachments/assets/7b99b6b3-7a45-4887-9cbe-be32eb4d89b8)
 ![19007](https://github.com/user-attachments/assets/855299b3-35c7-4185-80c0-8047c3e842c0)
@@ -600,5 +685,16 @@ Terraforming Planet is not only a technical engineering achievement but also a m
 
 
 ---
+<img width="1536" height="1024" alt="18428" src="https://github.com/user-attachments/assets/69043d16-fbd0-4965-b221-6dcb23cc0d30" />
+<img width="1024" height="1536" alt="17940" src="https://github.com/user-attachments/assets/f4747aff-2fc4-4adf-8dad-3cfc0c69523d" />
+<img width="1536" height="1024" alt="17937" src="https://github.com/user-attachments/assets/0a0e928a-a642-45e8-ab2b-eabf51e49d68" />
+<img width="1024" height="1024" alt="18187" src="https://github.com/user-attachments/assets/5e4a7d09-d71f-4bd5-a8bf-bb9d657385a0" />
+<img width="1024" height="1024" alt="18342" src="https://github.com/user-attachments/assets/e51f998c-dbc3-4f08-969b-2889adb4731c" />
+<img width="1024" height="1024" alt="18516" src="https://github.com/user-attachments/assets/c5bfe5ac-531b-457e-a67c-3735b58f35b8" />
+<img width="1024" height="1024" alt="19184" src="https://github.com/user-attachments/assets/a56ed829-b88c-4361-9b33-f166a623a596" />
+<img width="1536" height="1024" alt="19342" src="https://github.com/user-attachments/assets/f0c3c0dc-4b66-4df6-80d8-f80f6d4450f8" />
+<img width="1536" height="1024" alt="19658" src="https://github.com/user-attachments/assets/5db8fc27-9000-45b3-b313-fbb3a8f069c2" />
+
 
 Hi there 👋
+
