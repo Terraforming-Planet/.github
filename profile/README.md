@@ -686,22 +686,23 @@ Terraforming Planet is not only a technical engineering achievement but also a m
 
 # Terraforming Planet 🌍
 
-Poniżej slider:
 <!-- SLIDER START -->
 
 <p align="center">
-  <a href="#img3">⬅️</a>
+  <a href="#<img width="1024" height="1024" alt="19184" src="https://github.com/user-attachments/assets/f95dbb74-ca7b-4b96-979a-d14f1a0b8589" />
+">⬅️</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#img2">➡️</a>
+  <a href="#<img width="1536" height="1024" alt="19342" src="https://github.com/user-attachments/assets/a0e37d37-4208-4d2d-b452-0611baf345c4" />
+">➡️</a>
 </p>
 <p align="center" id="img1">
   <img src="images/1.png" width="420" />
 </p>
 
 <p align="center">
-  <a href="#<img width="1536" height="1024" alt="18428" src="https://github.com/user-attachments/assets/69043d16-fbd0-4965-b221-6dcb23cc0d30" />">⬅️</a>
+  <a href="#img1">⬅️</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#<img width="1024" height="1536" alt="17940" src="https://github.com/user-attachments/assets/f4747aff-2fc4-4adf-8dad-3cfc0c69523d" />">➡️</a>
+  <a href="#img3">➡️</a>
 </p>
 <p align="center" id="img2">
   <img src="images/2.png" width="420" />
@@ -717,19 +718,6 @@ Poniżej slider:
 </p>
 
 <!-- SLIDER END -->
-  
-
-
-<img width="1536" height="1024" alt="17937" src="https://github.com/user-attachments/assets/0a0e928a-a642-45e8-ab2b-eabf51e49d68" />
-<img width="1024" height="1024" alt="18187" src="https://github.com/user-attachments/assets/5e4a7d09-d71f-4bd5-a8bf-bb9d657385a0" />
-<img width="1024" height="1024" alt="18342" src="https://github.com/user-attachments/assets/e51f998c-dbc3-4f08-969b-2889adb4731c" />
-<img width="1024" height="1024" alt="18516" src="https://github.com/user-attachments/assets/c5bfe5ac-531b-457e-a67c-3735b58f35b8" />
-<img width="1024" height="1024" alt="19184" src="https://github.com/user-attachments/assets/a56ed829-b88c-4361-9b33-f166a623a596" />
-<img width="1536" height="1024" alt="19342" src="https://github.com/user-attachments/assets/f0c3c0dc-4b66-4df6-80d8-f80f6d4450f8" />
-<img width="1536" height="1024" alt="19658" src="https://github.com/user-attachments/assets/5db8fc27-9000-45b3-b313-fbb3a8f069c2" />
-</div>
-<!-- SLIDER END -->
-
 
 Hi there 👋
 
