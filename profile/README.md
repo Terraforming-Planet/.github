@@ -1,3 +1,7 @@
+![19016](https://github.com/user-attachments/assets/21636b73-1e7c-418f-835f-597ad366ab32)
+![19015](https://github.com/user-attachments/assets/7b99b6b3-7a45-4887-9cbe-be32eb4d89b8)
+![19007](https://github.com/user-attachments/assets/855299b3-35c7-4185-80c0-8047c3e842c0)
+
 Dzień dobry,
 
 
@@ -66,6 +70,7 @@ Kluczowym narzędziem realizacji celów fundacji będą maszyny zasilane energi�
 
 Zakłada się wykorzystanie m.in.:
 
+pojazdów zalogowych jaki bez załogowych sterowanych zdalnie lub przez Ai 
 
 - koparek i sprzętu ciężkiego,
 
