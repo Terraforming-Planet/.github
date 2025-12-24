@@ -296,3 +296,308 @@ Terraforming Planet to nie tylko techniczny wyczyn inżynieryjny, ale także mor
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+EN
+
+---
+
+Good morning,
+
+I hereby request the preparation of a comprehensive agreement (and any related clauses, if necessary) governing the licensing of my patents, technologies, and know-how, taking into account the following non-negotiable and permanent assumptions, which must be explicitly and unambiguously included in the legal documentation.
+
+
+---
+
+“Terraforming Planet” Foundation
+
+I plan to establish a foundation under the name “Terraforming Planet.”
+
+I have made a conscious, well-considered, and irreversible decision that 50% of all revenues generated from licensing agreements concerning my patents, technologies, and know-how shall be permanently, obligatorily, and automatically allocated to the activities of this foundation.
+
+This is not a symbolic, marketing, or image-related gesture.
+It is a fundamental value-based choice intended to constitute a permanent pillar of the entire legal structure of the project.
+
+I request that the licensing agreements be constructed in such a way that:
+
+the obligation to transfer 50% of revenues to the foundation is embedded directly into the settlement and accounting mechanism,
+
+the provision is irrevocable, inviolable, and resistant to ownership, corporate, or personal changes,
+
+there is no possibility of circumventing this mechanism in the future.
+
+
+
+---
+
+Primary Objective of the Foundation
+
+The most important objectives of the foundation are:
+
+social security,
+
+ensuring dignified living conditions for people and animals,
+
+creating real, practical engineering systems capable of:
+
+providing water to the thirsty,
+
+feeding the hungry,
+
+ensuring access to clean water,
+
+restoring vegetation and fertile soil,
+
+facilitating daily human functioning in extreme environmental and social conditions.
+
+
+
+The foundation is intended to operate practically and physically in the field, not solely through reports, conferences, or declarative actions.
+
+
+---
+
+Machines Working for the Common Good
+
+The key tools for achieving the foundation’s goals will be machines powered by renewable energy, particularly solar energy, operating under the principle of technological volunteerism:
+
+without fuel costs,
+
+without dependence on energy markets,
+
+without economic pressure.
+
+
+It is assumed that the following will be used, among others:
+
+manned and unmanned vehicles, remotely controlled or AI-driven,
+
+excavators and heavy machinery,
+
+work and transport vehicles,
+
+specialized machines,
+
+boats and watercraft,
+
+
+all covered with active photovoltaic elements (bodywork, wheels, upholstery, mirrors, lamps, and other usable surfaces), so that the energy required for operation is sourced directly from the sun.
+
+
+---
+
+Social and Environmental Justification
+
+Deficiencies in resources such as:
+
+drinking water,
+
+fertile soil,
+
+vegetation,
+
+a clean environment,
+
+
+as well as systemic inequalities, are among the main causes of wars, migration, poverty, and social destabilization.
+
+The foundation’s objective is to address the root causes of problems, not merely their consequences.
+
+
+---
+
+Scope of Environmental Activities
+
+The foundation’s activities will include, among others:
+
+cleaning seas and oceans,
+
+reclamation of rivers, estuaries, deltas, tributaries, and riverbeds,
+
+restoration of the natural water cycle.
+
+
+Particular emphasis will be placed on:
+
+deserts (e.g. the Sahara, Australia, Saudi Arabia),
+
+semi-desert areas (e.g. Texas and other regions of North America),
+
+other threatened areas of the planet.
+
+
+
+---
+
+Large-Scale Landscape Engineering
+
+The foundation plans to implement projects involving:
+
+the creation of valleys, mountain ranges, and artificial landforms, planting trees, and creating rivers,
+
+shaping mountainous and valley structures that generate shade,
+
+reducing ground and air temperatures,
+
+retaining moisture and supporting water vapor condensation,
+
+gradual restoration of rainfall, vegetation, and soil.
+
+
+These structures are also intended to serve protective functions:
+
+limiting the effects of tornadoes,
+
+reducing the force of atmospheric shock waves,
+
+mitigating the effects of tsunamis,
+
+stabilizing areas threatened by erosion and seismic activity.
+
+
+A long-term effect is also expected to be an increase in atmospheric oxygen levels.
+
+
+---
+
+Independence from Politics
+
+The foundation is to operate beyond political and sectoral divisions, based on:
+
+technology,
+
+engineering,
+
+science,
+
+long-term, responsible thinking.
+
+
+
+---
+
+Conscious Financial Decision
+
+I am aware that embedding the obligation to allocate 50% of revenues to the foundation reduces the market valuation of the technology.
+
+I fully accept this.
+I choose real impact over maximum valuation.
+
+
+---
+
+Foundation Research Projects
+
+The foundation will also conduct research projects, including:
+
+research into closed, self-sufficient “mini-planets,”
+
+use of extraterrestrial materials (meteorites, space debris, lunar and Martian regolith),
+
+research into long-term preservation of the human body after death,
+
+theoretical and experimental research into the possibility of restoring physical-biological functions in deceased individuals — without declaring effectiveness, solely as scientific research directions.
+
+
+
+---
+
+Durability of the Mechanism After My Death
+
+I request clear and permanent provisions stating that:
+
+after my death, the foundation is obligated to continue the plan I have provided,
+
+50% of licensing revenues always go to the foundation,
+
+the remaining 50% goes to shareholders and my family, including future generations,
+
+this mechanism is immutable, inviolable, and permanent.
+
+
+
+---
+
+Disposition Concerning My Body (Last Will)
+
+My last will includes:
+
+drying of the body for 1 month at a temperature of 36°C,
+
+placement, after complete removal of water, in a vacuum vessel with oxygen removed and maintained in a vacuum state,
+
+a quartz vessel with a minimum wall thickness of 2 cm,
+
+body and lid fused together (not glued),
+
+full isolation from moisture,
+
+complete halt of biological decomposition.
+
+
+The vessel is to be submerged in the Baltic Sea, anchored, not in a cemetery, at a distance of:
+
+minimum 30 km,
+
+maximum 123 km
+
+
+from the center of Gdańsk, in a northern direction.
+
+I also consent to visits by tourists and to the possibility of being restored to life in the future, should humanity develop such technologies, so that I may continue to act for the development and survival of humankind.
+
+
+---
+
+Request for Guidance
+
+Please advise:
+
+which elements should be included directly in the licensing agreement,
+
+which should be included in separate documents (e.g. foundation charter, will, trust fund),
+
+and what legal safeguards you recommend to ensure the entire structure is resistant to future systemic changes.
+
+
+Precision, durability, and the absence of legal loopholes are of utmost importance to me.
+
+
+---
+
+Yours sincerely,
+Sebastian
+
+
+---
+
+Terraforming Planet
+
+Terraforming Planet is a key project aimed not only at environmental protection but also at preparing our planet and other celestial bodies for the long-term survival of humanity. This project is highly important and future-oriented, as its objectives include restoring Earth’s water ecosystems and transforming other planets so they can support human life. Terraforming requires advanced technology, an interdisciplinary approach, and international cooperation, making it a project of enormous potential and significance for the future of our civilization.
+
+
+---
+
+Goals and Tasks of Terraforming Planet
+
+Restoration of the condition and levels of estuaries and deltas in lakes, rivers, and seas in Poland and worldwide
+
+The project focuses on identifying problems related to pollution, degradation, and water resource management. The goal is to restore the natural state of water bodies and support aquatic biodiversity.
+
+Creation of new mountain valleys and shaping new planets
+
+Terraforming Planet plans to utilize natural geological processes such as erosion, sedimentation, and seismic activity to model mountainous surfaces and valleys on new planets. The objective is to create stable, sustainable ecosystems capable of supporting human life.
+
+Use of meteors as resources for terraforming
+
+The project explores the potential of meteors as construction materials for transforming planetary atmospheres and surfaces. The use of nutrient-rich cosmic materials may become a key element in converting celestial bodies into habitable environments.
+
+
+---
+
+Significance for the Future
+
+Terraforming Planet is not only a technical engineering achievement but also a moral obligation to future generations. The project responds to challenges related to climate change, environmental pollution, and population growth. By developing terraforming technologies, we can secure our future, enabling humanity to survive and thrive in space. It is also a step toward greater independence from Earth’s resources, which may prove invaluable in the context of future challenges related to space exploration and the colonization of other planets.
+
+
+---
+
+Hi there 👋
