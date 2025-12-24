@@ -1,4 +1,5 @@
-**Terraforming Planet** ## 🌍 Projekt <img width="1024" height="1024" alt="19790" src="https://github.com/user-attachments/assets/a88a8391-38e3-4c35-8e7b-b3f694f44094" />
+**Terraforming Planet** ## 🌍 Projekt <img width="1024" height="1024" alt="19790" src="https://github.com/user-attachments/assets/e4c2099f-506e-4c8c-b8ed-cb8065d42459" />
+" width="10" height="10" /> 
 " width="28" />to niezależna fundacja technologiczno-inżynieryjna, której celem jest rozwiązywanie źródłowych przyczyn globalnych kryzysów humanitarnych i środowiskowych — a nie tylko ich skutków.
 
 Projektujemy i wdrażamy realne, fizyczne systemy inżynieryjne, które przywracają dostęp do wody, żywności, żyznej gleby oraz stabilnych lokalnych warunków klimatycznych.
