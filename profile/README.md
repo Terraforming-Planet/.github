@@ -687,12 +687,39 @@ Terraforming Planet is not only a technical engineering achievement but also a m
 # Terraforming Planet 🌍
 
 Poniżej slider:
-
 <!-- SLIDER START -->
-<div class="slider">
+
+<p align="center">
+  <a href="#img3">⬅️</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#img2">➡️</a>
+</p>
+<p align="center" id="img1">
+  <img src="images/1.png" width="420" />
+</p>
+
+<p align="center">
+  <a href="#<img width="1536" height="1024" alt="18428" src="https://github.com/user-attachments/assets/69043d16-fbd0-4965-b221-6dcb23cc0d30" />">⬅️</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#<img width="1024" height="1536" alt="17940" src="https://github.com/user-attachments/assets/f4747aff-2fc4-4adf-8dad-3cfc0c69523d" />">➡️</a>
+</p>
+<p align="center" id="img2">
+  <img src="images/2.png" width="420" />
+</p>
+
+<p align="center">
+  <a href="#img2">⬅️</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#img1">➡️</a>
+</p>
+<p align="center" id="img3">
+  <img src="images/3.png" width="420" />
+</p>
+
+<!-- SLIDER END -->
   
-<img width="1536" height="1024" alt="18428" src="https://github.com/user-attachments/assets/69043d16-fbd0-4965-b221-6dcb23cc0d30" />
-<img width="1024" height="1536" alt="17940" src="https://github.com/user-attachments/assets/f4747aff-2fc4-4adf-8dad-3cfc0c69523d" />
+
+
 <img width="1536" height="1024" alt="17937" src="https://github.com/user-attachments/assets/0a0e928a-a642-45e8-ab2b-eabf51e49d68" />
 <img width="1024" height="1024" alt="18187" src="https://github.com/user-attachments/assets/5e4a7d09-d71f-4bd5-a8bf-bb9d657385a0" />
 <img width="1024" height="1024" alt="18342" src="https://github.com/user-attachments/assets/e51f998c-dbc3-4f08-969b-2889adb4731c" />
