@@ -723,6 +723,15 @@ Terraforming Planet is not only a technical engineering achievement but also a m
 <img width="1024" height="1024" alt="19753" src="https://github.com/user-attachments/assets/1107b86b-34ee-446a-9334-b2781fbf048d" />
 
 </p>
+<img width="1024" height="1024" alt="19740" src="https://github.com/user-attachments/assets/fd18a3dd-5298-4538-b41f-b47fe6951e5e" />
+<img width="1024" height="1536" alt="17940" src="https://github.com/user-attachments/assets/3e47106f-4d66-4c63-8052-7aa9ae3a31b9" />
+<img width="1024" height="1024" alt="18187" src="https://github.com/user-attachments/assets/3ff645e1-e4c4-4bda-aa0f-9dc3cb187305" />
+<img width="1536" height="1024" alt="18428" src="https://github.com/user-attachments/assets/66c55234-a28e-459e-a8ab-20d34db6912d" />
+<img width="1024" height="1024" alt="18516" src="https://github.com/user-attachments/assets/62de82c9-9752-4c16-9775-892b7895676c" />
+<img width="1536" height="1024" alt="19342" src="https://github.com/user-attachments/assets/c89eb420-64a3-4c2b-8542-b6818620e68f" />
+<img width="1536" height="1024" alt="19413" src="https://github.com/user-attachments/assets/d8f1382d-a026-47a5-b2c6-7a5e9901cf79" />
+<img width="1536" height="1024" alt="19658" src="https://github.com/user-attachments/assets/6575ac56-f74a-4157-bb9b-d02c68b62fe8" />
+
 
 Terraforming Planet 
 
