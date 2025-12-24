@@ -1,4 +1,4 @@
-**Terraforming <img width="1024" height="1024" alt="19791" src="https://github.com/user-attachments/assets/3de1c1dc-bbb2-4050-b661-b85782874c4a" />
+**Terraforming <img width="124" height="124" alt="19791" src="https://github.com/user-attachments/assets/3de1c1dc-bbb2-4050-b661-b85782874c4a" />
 Planet** 
 to niezależna fundacja technologiczno-inżynieryjna, której celem jest rozwiązywanie źródłowych przyczyn globalnych kryzysów humanitarnych i środowiskowych — a nie tylko ich skutków.
 
