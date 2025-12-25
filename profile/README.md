@@ -12,8 +12,12 @@ Wierzymy, że jeśli ludzkość nauczy się właściwie zarządzać wodą, ziemi
 
 
 **Terraforming Planet idea **
-
-
+<a href="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a"
+   data-canonical-src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a">
+  <img width="124" height="124" loading="lazy" decoding="async"
+       alt="17899"
+       src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />
+</a>
 <img width="124" height="124" alt="17899" src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />"
 <img width="124" height="124" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
 <img width="124" height="124" alt="17745" src="https://github.com/user-attachments/assets/1502b3f0-bc32-4266-8f91-fe36092aa2dc" />
