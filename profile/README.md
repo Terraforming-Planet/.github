@@ -1,6 +1,16 @@
 
 <img width="124" height="124" alt="17899" src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />
-<img width="124" height="124" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />**Terraforming Planet** 
+<img width="124" height="124" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
+<img width="124" height="124" alt="17745" src="https://github.com/user-attachments/assets/1502b3f0-bc32-4266-8f91-fe36092aa2dc" />
+<img width="124" height="124" alt="18146" src="https://github.com/user-attachments/assets/22b957f7-f151-4d22-b62b-821840d1e552" />
+<img width="124" height="124" alt="18212" src="https://github.com/user-attachments/assets/6b0490c6-dc0d-4bf7-8321-e17873c826ca" />
+<img width="124" height="124" alt="18536" src="https://github.com/user-attachments/assets/6a7ee7ff-ae4b-493a-af62-da7339785dd0" />
+<img width="124" height="124" alt="19076" src="https://github.com/user-attachments/assets/b0b6cdbf-1e8a-4c40-a05d-8f9289da7504" />
+<img width="124" height="124" alt="19237" src="https://github.com/user-attachments/assets/9d97e729-dc01-4f33-bbd0-166bbe47ddf1" />
+<img width="124" height="124" alt="19324" src="https://github.com/user-attachments/assets/d596c5a2-add5-400a-8258-f6acbc4a377a" />
+
+
+**Terraforming Planet** 
 to niezależna fundacja technologiczno-inżynieryjna, której celem jest rozwiązywanie źródłowych przyczyn globalnych kryzysów humanitarnych i środowiskowych — a nie tylko ich skutków.
 
 Projektujemy i wdrażamy realne, fizyczne systemy inżynieryjne, które przywracają dostęp do wody, żywności, żyznej gleby oraz stabilnych lokalnych warunków klimatycznych.
