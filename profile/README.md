@@ -8,55 +8,48 @@ Nasze działania opierają się na nauce, inżynierii i długofalowej odpowiedzi
 50% wszystkich przychodów z licencjonowania naszych technologii jest trwale i strukturalnie przeznaczone na działalność fundacji.
 Nie jest to marketing ani deklaracja — to fundament architektury całego projektu.
 Wierzymy, że jeśli ludzkość nauczy się właściwie zarządzać wodą, ziemią i energią, konflikty można ograniczać u źródła, zanim w ogóle powstaną.
-
+Hi there 👋
 <details>
-<summary>📷 Galeria (kliknij aby załadować)</summary>
+  <summary><b>📷 Galeria (kliknij aby załadować)</b></summary>
 
-<img width="124" height="124" alt="17899" src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />
-<img width="124" height="124" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
-<!-- reszta Twoich <img> tutaj -->
+  <!-- START GALERII (TU MAJĄ BYĆ TYLKO RAZ) -->
+  <img width="124" height="124" loading="lazy" decoding="async" alt="17899" src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="17745" src="https://github.com/user-attachments/assets/1502b3f0-bc32-4266-8f91-fe36092aa2dc" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="18146" src="https://github.com/user-attachments/assets/22b957f7-f151-4d22-b62b-821840d1e552" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="18212" src="https://github.com/user-attachments/assets/6b0490c6-dc0d-4bf7-8321-e17873c826ca" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="18536" src="https://github.com/user-attachments/assets/6a7ee7ff-ae4b-493a-af62-da7339785dd0" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="19076" src="https://github.com/user-attachments/assets/b0b6cdbf-1e8a-4c40-a05d-8f9289da7504" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="19237" src="https://github.com/user-attachments/assets/9d97e729-dc01-4f33-bbd0-166bbe47ddf1" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="19324" src="https://github.com/user-attachments/assets/d596c5a2-add5-400a-8258-f6acbc4a377a" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="17898" src="https://github.com/user-attachments/assets/67c3379d-df4c-4fae-b846-3c6de688c9aa" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="18925" src="https://github.com/user-attachments/assets/78d3dcee-5bf4-49d0-a077-4dd5b49dfa20" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="18931" src="https://github.com/user-attachments/assets/83b71b87-7882-47da-b63e-248c900066e8" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="19004" src="https://github.com/user-attachments/assets/09c27fbb-83c5-4b46-831e-e5a34080f567" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="19714" src="https://github.com/user-attachments/assets/1b6954e8-501c-419b-bb9c-9f0e51f2ba35" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="19790" src="https://github.com/user-attachments/assets/be217e27-27a4-4287-a179-e9736c10997f" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="17937" src="https://github.com/user-attachments/assets/b43fff2a-f14e-4318-b362-d5a0ff57f394" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="19754" src="https://github.com/user-attachments/assets/3a26f5a9-26d6-4446-9c79-941f0e48e081" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="19184" src="https://github.com/user-attachments/assets/52e57b76-81e5-4a13-a32a-01fa974387d5" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="19750" src="https://github.com/user-attachments/assets/f2a51575-dacf-4eda-91d9-fb5da3cf8c66" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="17900" src="https://github.com/user-attachments/assets/88b60384-6ee9-4300-996f-4a8f591a6fca" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="18342" src="https://github.com/user-attachments/assets/ff954682-20f1-4742-9ce3-eb3cde835580" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="19753" src="https://github.com/user-attachments/assets/1107b86b-34ee-446a-9334-b2781fbf048d" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="17940" src="https://github.com/user-attachments/assets/3e47106f-4d66-4c63-8052-7aa9ae3a31b9" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="18187" src="https://github.com/user-attachments/assets/3ff645e1-e4c4-4bda-aa0f-9dc3cb187305" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="18428" src="https://github.com/user-attachments/assets/66c55234-a28e-459e-a8ab-20d34db6912d" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="18516" src="https://github.com/user-attachments/assets/62de82c9-9752-4c16-9775-892b7895676c" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="19342" src="https://github.com/user-attachments/assets/c89eb420-64a3-4c2b-8542-b6818620e68f" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="19413" src="https://github.com/user-attachments/assets/d8f1382d-a026-47a5-b2c6-7a5e9901cf79" />
+  <img width="124" height="124" loading="lazy" decoding="async" alt="19658" src="https://github.com/user-attachments/assets/6575ac56-f74a-4157-bb9b-d02c68b62fe8" />
+  <!-- END GALERII -->
 
-</details>
-<img width="124" height="124" alt="17899" src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />
-<img width="124" height="124" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
-<img width="124" height="124" alt="17745" src="https://github.com/user-attachments/assets/1502b3f0-bc32-4266-8f91-fe36092aa2dc" />
-<img width="124" height="124" alt="18146" src="https://github.com/user-attachments/assets/22b957f7-f151-4d22-b62b-821840d1e552" />
-<img width="124" height="124" alt="18212" src="https://github.com/user-attachments/assets/6b0490c6-dc0d-4bf7-8321-e17873c826ca" />
-<img width="124" height="124" alt="18536" src="https://github.com/user-attachments/assets/6a7ee7ff-ae4b-493a-af62-da7339785dd0" />
-★  
-<img width="124" height="124" alt="19076" src="https://github.com/user-attachments/assets/b0b6cdbf-1e8a-4c40-a05d-8f9289da7504" />
-<img width="124" height="124" alt="19237" src="https://github.com/user-attachments/assets/9d97e729-dc01-4f33-bbd0-166bbe47ddf1" />
-<img width="124" height="124" alt="19324" src="https://github.com/user-attachments/assets/d596c5a2-add5-400a-8258-f6acbc4a377a" />
-<img width="124" height="124" alt="17898" src="https://github.com/user-attachments/assets/67c3379d-df4c-4fae-b846-3c6de688c9aa" />
-<img width="124" height="124" alt="18925" src="https://github.com/user-attachments/assets/78d3dcee-5bf4-49d0-a077-4dd5b49dfa20" />
-<img width="124" height="124" alt="18931" src="https://github.com/user-attachments/assets/83b71b87-7882-47da-b63e-248c900066e8" />
-★
-<img width="124" height="124" alt="19004" src="https://github.com/user-attachments/assets/09c27fbb-83c5-4b46-831e-e5a34080f567" />
-<img width="124" height="124" alt="19714" src="https://github.com/user-attachments/assets/1b6954e8-501c-419b-bb9c-9f0e51f2ba35" />
-<img width="124" height="124" alt="19790" src="https://github.com/user-attachments/assets/be217e27-27a4-4287-a179-e9736c10997f" />
-<img width="124" height="124" alt="17937" src="https://github.com/user-attachments/assets/b43fff2a-f14e-4318-b362-d5a0ff57f394" />
-<img width="124" height="124" alt="19754" src="https://github.com/user-attachments/assets/3a26f5a9-26d6-4446-9c79-941f0e48e081" />
-<img width="124" height="124" alt="19184" src="https://github.com/user-attachments/assets/52e57b76-81e5-4a13-a32a-01fa974387d5" />
-★
-<img width="124" height="124" alt="19750" src="https://github.com/user-attachments/assets/f2a51575-dacf-4eda-91d9-fb5da3cf8c66" />
-<img width="124" height="124" alt="17900" src="https://github.com/user-attachments/assets/88b60384-6ee9-4300-996f-4a8f591a6fca" />
-<img width="124" height="124" alt="18342" src="https://github.com/user-attachments/assets/ff954682-20f1-4742-9ce3-eb3cde835580" />
-<img width="124" height="124" alt="19753" src="https://github.com/user-attachments/assets/1107b86b-34ee-446a-9334-b2781fbf048d" />
-<img width="124" height="124" alt="17940" src="https://github.com/user-attachments/assets/3e47106f-4d66-4c63-8052-7aa9ae3a31b9" />
-<img width="124" height="124" alt="18187" src="https://github.com/user-attachments/assets/3ff645e1-e4c4-4bda-aa0f-9dc3cb187305" />
-★
-<img width="124" height="124" alt="18428" src="https://github.com/user-attachments/assets/66c55234-a28e-459e-a8ab-20d34db6912d" />
-<img width="124" height="124" alt="18516" src="https://github.com/user-attachments/assets/62de82c9-9752-4c16-9775-892b7895676c" />
-<img width="124" height="124" alt="19342" src="https://github.com/user-attachments/assets/c89eb420-64a3-4c2b-8542-b6818620e68f" />
-<img width="124" height="124" alt="19413" src="https://github.com/user-attachments/assets/d8f1382d-a026-47a5-b2c6-7a5e9901cf79" />
-<img width="124" height="124" alt="19658" src="https://github.com/user-attachments/assets/6575ac56-f74a-4157-bb9b-d02c68b62fe8" />
 </details>
 
 
 
 
 
----
 
 💡Zasady współpracy — jak społeczność może się zaangażować?
 
@@ -732,44 +725,5 @@ Terraforming Planet is not only a technical engineering achievement but also a m
 
 
 Terraforming Planet 
-
-
-Hi there 👋
-<details>
-  <summary><b>📷 Galeria (kliknij aby załadować)</b></summary>
-
-  <!-- START GALERII (TU MAJĄ BYĆ TYLKO RAZ) -->
-  <img width="124" height="124" loading="lazy" decoding="async" alt="17899" src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="17745" src="https://github.com/user-attachments/assets/1502b3f0-bc32-4266-8f91-fe36092aa2dc" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="18146" src="https://github.com/user-attachments/assets/22b957f7-f151-4d22-b62b-821840d1e552" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="18212" src="https://github.com/user-attachments/assets/6b0490c6-dc0d-4bf7-8321-e17873c826ca" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="18536" src="https://github.com/user-attachments/assets/6a7ee7ff-ae4b-493a-af62-da7339785dd0" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="19076" src="https://github.com/user-attachments/assets/b0b6cdbf-1e8a-4c40-a05d-8f9289da7504" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="19237" src="https://github.com/user-attachments/assets/9d97e729-dc01-4f33-bbd0-166bbe47ddf1" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="19324" src="https://github.com/user-attachments/assets/d596c5a2-add5-400a-8258-f6acbc4a377a" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="17898" src="https://github.com/user-attachments/assets/67c3379d-df4c-4fae-b846-3c6de688c9aa" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="18925" src="https://github.com/user-attachments/assets/78d3dcee-5bf4-49d0-a077-4dd5b49dfa20" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="18931" src="https://github.com/user-attachments/assets/83b71b87-7882-47da-b63e-248c900066e8" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="19004" src="https://github.com/user-attachments/assets/09c27fbb-83c5-4b46-831e-e5a34080f567" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="19714" src="https://github.com/user-attachments/assets/1b6954e8-501c-419b-bb9c-9f0e51f2ba35" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="19790" src="https://github.com/user-attachments/assets/be217e27-27a4-4287-a179-e9736c10997f" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="17937" src="https://github.com/user-attachments/assets/b43fff2a-f14e-4318-b362-d5a0ff57f394" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="19754" src="https://github.com/user-attachments/assets/3a26f5a9-26d6-4446-9c79-941f0e48e081" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="19184" src="https://github.com/user-attachments/assets/52e57b76-81e5-4a13-a32a-01fa974387d5" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="19750" src="https://github.com/user-attachments/assets/f2a51575-dacf-4eda-91d9-fb5da3cf8c66" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="17900" src="https://github.com/user-attachments/assets/88b60384-6ee9-4300-996f-4a8f591a6fca" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="18342" src="https://github.com/user-attachments/assets/ff954682-20f1-4742-9ce3-eb3cde835580" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="19753" src="https://github.com/user-attachments/assets/1107b86b-34ee-446a-9334-b2781fbf048d" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="17940" src="https://github.com/user-attachments/assets/3e47106f-4d66-4c63-8052-7aa9ae3a31b9" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="18187" src="https://github.com/user-attachments/assets/3ff645e1-e4c4-4bda-aa0f-9dc3cb187305" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="18428" src="https://github.com/user-attachments/assets/66c55234-a28e-459e-a8ab-20d34db6912d" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="18516" src="https://github.com/user-attachments/assets/62de82c9-9752-4c16-9775-892b7895676c" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="19342" src="https://github.com/user-attachments/assets/c89eb420-64a3-4c2b-8542-b6818620e68f" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="19413" src="https://github.com/user-attachments/assets/d8f1382d-a026-47a5-b2c6-7a5e9901cf79" />
-  <img width="124" height="124" loading="lazy" decoding="async" alt="19658" src="https://github.com/user-attachments/assets/6575ac56-f74a-4157-bb9b-d02c68b62fe8" />
-  <!-- END GALERII -->
-
-</details>
 
 
