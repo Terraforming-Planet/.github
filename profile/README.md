@@ -4,10 +4,14 @@
 
 **Projektujemy i wdrażamy realne, fizyczne systemy inżynieryjne, które przywracają dostęp do wody, żywności, żyznej gleby oraz stabilnych lokalnych warunków klimatycznych.**
 
-```Nasze działania opierają się na nauce, inżynierii i długofalowej odpowiedzialności — ponad polityką i ponad granicami.
+Nasze działania opierają się na nauce, inżynierii i długofalowej odpowiedzialności — ponad polityką i ponad granicami.
 50% wszystkich przychodów z licencjonowania naszych technologii jest trwale i strukturalnie przeznaczone na działalność fundacji.
 Nie jest to marketing ani deklaracja — to fundament architektury całego projektu.
-Wierzymy, że jeśli ludzkość nauczy się właściwie zarządzać wodą, ziemią i energią, konflikty można ograniczać u źródła, zanim w ogóle powstaną.```
+Wierzymy, że jeśli ludzkość nauczy się właściwie zarządzać wodą, ziemią i energią, konflikty można ograniczać u źródła, zanim w ogóle powstaną.
+
+
+
+**Terraforming Planet idea **
 
 <img width="124" height="124" alt="17899" src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />
 <img width="124" height="124" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
@@ -31,7 +35,6 @@ Wierzymy, że jeśli ludzkość nauczy się właściwie zarządzać wodą, ziemi
 <img width="124" height="124" alt="17900" src="https://github.com/user-attachments/assets/88b60384-6ee9-4300-996f-4a8f591a6fca" />
 <img width="124" height="124" alt="18342" src="https://github.com/user-attachments/assets/ff954682-20f1-4742-9ce3-eb3cde835580" />
 <img width="124" height="124" alt="19753" src="https://github.com/user-attachments/assets/1107b86b-34ee-446a-9334-b2781fbf048d" />
-<img width="1<img width="124" height="1536" alt="17760" src="https://github.com/user-attachments/assets/c495d36f-2efa-4d4d-acc2-3b1406c5b622" />
 <img width="124" height="124" alt="17940" src="https://github.com/user-attachments/assets/3e47106f-4d66-4c63-8052-7aa9ae3a31b9" />
 <img width="124" height="124" alt="18187" src="https://github.com/user-attachments/assets/3ff645e1-e4c4-4bda-aa0f-9dc3cb187305" />
 <img width="124" height="124" alt="18428" src="https://github.com/user-attachments/assets/66c55234-a28e-459e-a8ab-20d34db6912d" />
