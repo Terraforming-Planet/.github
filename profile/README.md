@@ -10,104 +10,13 @@ Nie jest to marketing ani deklaracja — to fundament architektury całego proje
 Wierzymy, że jeśli ludzkość nauczy się właściwie zarządzać wodą, ziemią i energią, konflikty można ograniczać u źródła, zanim w ogóle powstaną.
 
 
-<!-- WKLEJ NAD IMG BLOKIEM -->
-<style>
-  /* Styl lightboxa */
-  #lightbox-overlay {
-    position: fixed;
-    top: 0; left: 0;
-    width: 100%; height: 100%;
-    background: rgba(0, 0, 0, 0.8);
-    display: none;
-    justify-content: center;
-    align-items: center;
-    overflow: auto;
-    z-index: 9999;
-  }
-  #lightbox-overlay img {
-    max-width: 600px;
-    max-height: 600px;
-    box-shadow: 0 0 8px #000;
-  }
-  #lightbox-close {
-    position: absolute;
-    top: 20px; right: 30px;
-    color: #fff;
-    font-size: 30px;
-    font-family: sans-serif;
-    cursor: pointer;
-  }
-</style>
-
-<!-- Kontener lightboxa -->
-<div id="lightbox-overlay">
-  <span id="lightbox-close">&times;</span>
-  <img id="lightbox-img" src="" alt="Podgląd obrazu">
-</div>
-
-<script>
-  // Inicjalizacja miniatur i lightboxa po załadowaniu strony
-  document.addEventListener('DOMContentLoaded', function() {
-    var overlay = document.getElementById('lightbox-overlay');
-    var overlayImg = document.getElementById('lightbox-img');
-    var closeBtn = document.getElementById('lightbox-close');
-    var isOverlayOpen = false;
-
-    // Znajdź wszystkie obrazki z domeny githubusercontent.com
-    var imgs = document.querySelectorAll('img[src*="githubusercontent.com"]');
-    imgs.forEach(function(img) {
-      // Ustaw leniwe ładowanie
-      img.setAttribute('loading', 'lazy');
-      // Zachowaj oryginalny URL obrazu w atrybucie data-large
-      var originalSrc = img.src;
-      img.dataset.large = originalSrc;
-      // Zmień źródło obrazka na miniaturę 124x124 (dodaj sufiks "-thumb" przed rozszerzeniem)
-      var thumbSrc = originalSrc.replace(/(\.[a-zA-Z0-9]+)(?:\?.*)?$/, function(match) {
-        return '-thumb' + match;
-      });
-      img.src = thumbSrc;
-      // Ogranicz rozmiar wyświetlanej miniatury (dla pewności, bez zniekształcania proporcji)
-      img.style.maxWidth = '124px';
-      img.style.maxHeight = '124px';
-      // Po kliknięciu obrazka otwórz duży obraz w lightboxie
-      img.addEventListener('click', function() {
-        overlayImg.src = img.dataset.large;
-        overlay.style.display = 'flex';
-        isOverlayOpen = true;
-        // (Opcjonalnie) Zablokuj przewijanie tła
-        document.body.style.overflow = 'hidden';
-      });
-    });
-
-    // Zamknij lightbox po kliknięciu przycisku X
-    closeBtn.addEventListener('click', hideLightbox);
-    // Zamknij po kliknięciu w tło (poza obrazem)
-    overlay.addEventListener('click', function(e) {
-      if (e.target === overlay) {
-        hideLightbox();
-      }
-    });
-    // Zamknij po wciśnięciu klawisza Escape
-    document.addEventListener('keydown', function(e) {
-      if (e.key === 'Escape' && isOverlayOpen) {
-        hideLightbox();
-      }
-    });
-
-    // Funkcja zamykająca lightbox
-    function hideLightbox() {
-      overlay.style.display = 'none';
-      overlayImg.src = '';              // zatrzymaj ewentualne ładowanie dużego obrazu
-      document.body.style.overflow = ''; // przywróć przewijanie strony
-      isOverlayOpen = false;
-    }
-  });
-</script>
-<img width="124" height="124" alt="17899" src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />"
-<img width="124" height="124" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
-<img width="124" height="124" alt="17745" src="https://github.com/user-attachments/assets/1502b3f0-bc32-4266-8f91-fe36092aa2dc" />
-<img width="124" height="124" alt="18146" src="https://github.com/user-attachments/assets/22b957f7-f151-4d22-b62b-821840d1e552" />
-<img width="124" height="124" alt="18212" src="https://github.com/user-attachments/assets/6b0490c6-dc0d-4bf7-8321-e17873c826ca" />
+<details>
+<summary><b>📷 Kliknij, aby załadować grafiki (szybciej)</b></summary>
+<img width="124" height="124" alt="17899" src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />"loading="lazy" decoding="async"
+<img width="124" height="124" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />loading="lazy" decoding="async"
+<img width="124" height="124" alt="17745" src="https://github.com/user-attachments/assets/1502b3f0-bc32-4266-8f91-fe36092aa2dc" />loading="lazy" decoding="async"
+<img width="124" height="124" alt="18146" src="https://github.com/user-attachments/assets/22b957f7-f151-4d22-b62b-821840d1e552" />loading="lazy" decoding="async"
+<img width="124" height="124" alt="18212" src="https://github.com/user-attachments/assets/6b0490c6-dc0d-4bf7-8321-e17873c826ca" />loading="lazy" decoding="async"
 <img width="124" height="124" alt="18536" src="https://github.com/user-attachments/assets/6a7ee7ff-ae4b-493a-af62-da7339785dd0" />
 <img width="124" height="124" alt="19076" src="https://github.com/user-attachments/assets/b0b6cdbf-1e8a-4c40-a05d-8f9289da7504" />
 <img width="124" height="124" alt="19237" src="https://github.com/user-attachments/assets/9d97e729-dc01-4f33-bbd0-166bbe47ddf1" />
@@ -132,6 +41,7 @@ Wierzymy, że jeśli ludzkość nauczy się właściwie zarządzać wodą, ziemi
 <img width="124" height="124" alt="19342" src="https://github.com/user-attachments/assets/c89eb420-64a3-4c2b-8542-b6818620e68f" />
 <img width="124" height="124" alt="19413" src="https://github.com/user-attachments/assets/d8f1382d-a026-47a5-b2c6-7a5e9901cf79" />
 <img width="124" height="124" alt="19658" src="https://github.com/user-attachments/assets/6575ac56-f74a-4157-bb9b-d02c68b62fe8" />
+</details>
 
 
 
