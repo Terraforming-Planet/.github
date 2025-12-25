@@ -8,6 +8,7 @@
 <img width="124" height="124" alt="19076" src="https://github.com/user-attachments/assets/b0b6cdbf-1e8a-4c40-a05d-8f9289da7504" />
 <img width="124" height="124" alt="19237" src="https://github.com/user-attachments/assets/9d97e729-dc01-4f33-bbd0-166bbe47ddf1" />
 <img width="124" height="124" alt="19324" src="https://github.com/user-attachments/assets/d596c5a2-add5-400a-8258-f6acbc4a377a" />
+<img width="1536" height="1024" alt="17898" src="https://github.com/user-attachments/assets/67c3379d-df4c-4fae-b846-3c6de688c9aa" />
 
 
 **Terraforming Planet** 
@@ -699,53 +700,54 @@ Terraforming Planet is not only a technical engineering achievement but also a m
 
 <p align="center">
   <a href="#img3">⬅️</a>
-  &nbsp;&nbsp;&nbsp;<img width="1536" height="1024" alt="17937" src="https://github.com/user-attachments/assets/b43fff2a-f14e-4318-b362-d5a0ff57f394" />
+  &nbsp;&nbsp;&nbsp;<img width="124" height="124" alt="17937" src="https://github.com/user-attachments/assets/b43fff2a-f14e-4318-b362-d5a0ff57f394" />
 
   <a href="#img2">➡️</a>
 </p>
 
 
 <p align="center" id="img1">
-<img width="1024" height="1024" alt="19754" src="https://github.com/user-attachments/assets/3a26f5a9-26d6-4446-9c79-941f0e48e081" />
+<img width="124" height="124" alt="19754" src="https://github.com/user-attachments/assets/3a26f5a9-26d6-4446-9c79-941f0e48e081" />
 
 </p>
 
 
 <p align="center">
   <a href="#img1">⬅️</a>
- <img width="1024" height="1024" alt="19184" src="https://github.com/user-attachments/assets/52e57b76-81e5-4a13-a32a-01fa974387d5" />
+ <img width="124" height="124" alt="19184" src="https://github.com/user-attachments/assets/52e57b76-81e5-4a13-a32a-01fa974387d5" />
 
   <a href="#img3">➡️</a>
 </p>
 
 
 <p align="center" id="img2">
-<img width="1024" height="1024" alt="19750" src="https://github.com/user-attachments/assets/f2a51575-dacf-4eda-91d9-fb5da3cf8c66" />
+<img width="124" height="124" alt="19750" src="https://github.com/user-attachments/assets/f2a51575-dacf-4eda-91d9-fb5da3cf8c66" />
 
 </p>
 
 
 <p align="center">
   <a href="#img2">⬅️</a>
-  &nbsp;&nbsp;&nbsp;<img width="1024" height="1024" alt="17900" src="https://github.com/user-attachments/assets/88b60384-6ee9-4300-996f-4a8f591a6fca" />
-<img width="1024" height="1024" alt="18342" src="https://github.com/user-attachments/assets/ff954682-20f1-4742-9ce3-eb3cde835580" />
+  &nbsp;&nbsp;&nbsp;<img width="124" height="124" alt="17900" src="https://github.com/user-attachments/assets/88b60384-6ee9-4300-996f-4a8f591a6fca" />
+<img width="124" height="124" alt="18342" src="https://github.com/user-attachments/assets/ff954682-20f1-4742-9ce3-eb3cde835580" />
 
   <a href="#img1">➡️</a>
 </p>
 
 
 <p align="center" id="img3">
-<img width="1024" height="1024" alt="19753" src="https://github.com/user-attachments/assets/1107b86b-34ee-446a-9334-b2781fbf048d" />
+<img width="124" height="124" alt="19753" src="https://github.com/user-attachments/assets/1107b86b-34ee-446a-9334-b2781fbf048d" />
 
 </p>
-<img width="1024" height="1024" alt="19740" src="https://github.com/user-attachments/assets/fd18a3dd-5298-4538-b41f-b47fe6951e5e" />
-<img width="1024" height="1536" alt="17940" src="https://github.com/user-attachments/assets/3e47106f-4d66-4c63-8052-7aa9ae3a31b9" />
-<img width="1024" height="1024" alt="18187" src="https://github.com/user-attachments/assets/3ff645e1-e4c4-4bda-aa0f-9dc3cb187305" />
-<img width="1536" height="1024" alt="18428" src="https://github.com/user-attachments/assets/66c55234-a28e-459e-a8ab-20d34db6912d" />
-<img width="1024" height="1024" alt="18516" src="https://github.com/user-attachments/assets/62de82c9-9752-4c16-9775-892b7895676c" />
-<img width="1536" height="1024" alt="19342" src="https://github.com/user-attachments/assets/c89eb420-64a3-4c2b-8542-b6818620e68f" />
-<img width="1536" height="1024" alt="19413" src="https://github.com/user-attachments/assets/d8f1382d-a026-47a5-b2c6-7a5e9901cf79" />
-<img width="1536" height="1024" alt="19658" src="https://github.com/user-attachments/assets/6575ac56-f74a-4157-bb9b-d02c68b62fe8" />
+<img width="1<img width="124" height="1536" alt="17760" src="https://github.com/user-attachments/assets/c495d36f-2efa-4d4d-acc2-3b1406c5b622" />
+024" height="1024" alt="19740" src="https://github.com/user-attachments/assets/fd18a3dd-5298-4538-b41f-b47fe6951e5e" />
+<img width="124" height="124" alt="17940" src="https://github.com/user-attachments/assets/3e47106f-4d66-4c63-8052-7aa9ae3a31b9" />
+<img width="124" height="124" alt="18187" src="https://github.com/user-attachments/assets/3ff645e1-e4c4-4bda-aa0f-9dc3cb187305" />
+<img width="124" height="124" alt="18428" src="https://github.com/user-attachments/assets/66c55234-a28e-459e-a8ab-20d34db6912d" />
+<img width="124" height="124" alt="18516" src="https://github.com/user-attachments/assets/62de82c9-9752-4c16-9775-892b7895676c" />
+<img width="124" height="124" alt="19342" src="https://github.com/user-attachments/assets/c89eb420-64a3-4c2b-8542-b6818620e68f" />
+<img width="124" height="124" alt="19413" src="https://github.com/user-attachments/assets/d8f1382d-a026-47a5-b2c6-7a5e9901cf79" />
+<img width="124" height="124" alt="19658" src="https://github.com/user-attachments/assets/6575ac56-f74a-4157-bb9b-d02c68b62fe8" />
 
 
 Terraforming Planet 
