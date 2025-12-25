@@ -13,6 +13,23 @@
 <img width="124" height="124" alt="19004" src="https://github.com/user-attachments/assets/09c27fbb-83c5-4b46-831e-e5a34080f567" />
 <img width="124" height="124" alt="19714" src="https://github.com/user-attachments/assets/1b6954e8-501c-419b-bb9c-9f0e51f2ba35" />
 <img width="124" height="124" alt="19790" src="https://github.com/user-attachments/assets/be217e27-27a4-4287-a179-e9736c10997f" />
+<img width="124" height="124" alt="17937" src="https://github.com/user-attachments/assets/b43fff2a-f14e-4318-b362-d5a0ff57f394" />
+<img width="124" height="124" alt="19754" src="https://github.com/user-attachments/assets/3a26f5a9-26d6-4446-9c79-941f0e48e081" />
+<img width="124" height="124" alt="19184" src="https://github.com/user-attachments/assets/52e57b76-81e5-4a13-a32a-01fa974387d5" />
+<img width="124" height="124" alt="19750" src="https://github.com/user-attachments/assets/f2a51575-dacf-4eda-91d9-fb5da3cf8c66" />
+<img width="124" height="124" alt="17900" src="https://github.com/user-attachments/assets/88b60384-6ee9-4300-996f-4a8f591a6fca" />
+<img width="124" height="124" alt="18342" src="https://github.com/user-attachments/assets/ff954682-20f1-4742-9ce3-eb3cde835580" />
+<img width="124" height="124" alt="19753" src="https://github.com/user-attachments/assets/1107b86b-34ee-446a-9334-b2781fbf048d" />
+<img width="1<img width="124" height="1536" alt="17760" src="https://github.com/user-attachments/assets/c495d36f-2efa-4d4d-acc2-3b1406c5b622" />
+<img width="124" height="124" alt="17940" src="https://github.com/user-attachments/assets/3e47106f-4d66-4c63-8052-7aa9ae3a31b9" />
+<img width="124" height="124" alt="18187" src="https://github.com/user-attachments/assets/3ff645e1-e4c4-4bda-aa0f-9dc3cb187305" />
+<img width="124" height="124" alt="18428" src="https://github.com/user-attachments/assets/66c55234-a28e-459e-a8ab-20d34db6912d" />
+<img width="124" height="124" alt="18516" src="https://github.com/user-attachments/assets/62de82c9-9752-4c16-9775-892b7895676c" />
+<img width="124" height="124" alt="19342" src="https://github.com/user-attachments/assets/c89eb420-64a3-4c2b-8542-b6818620e68f" />
+<img width="124" height="124" alt="19413" src="https://github.com/user-attachments/assets/d8f1382d-a026-47a5-b2c6-7a5e9901cf79" />
+<img width="124" height="124" alt="19658" src="https://github.com/user-attachments/assets/6575ac56-f74a-4157-bb9b-d02c68b62fe8" />
+
+
 
 **Terraforming Planet** 
 to niezależna fundacja technologiczno-inżynieryjna, której celem jest rozwiązywanie źródłowych przyczyn globalnych kryzysów humanitarnych i środowiskowych — a nie tylko ich skutków.
@@ -699,22 +716,6 @@ The project explores the potential of meteors as construction materials for tran
 Significance for the Future
 
 Terraforming Planet is not only a technical engineering achievement but also a moral obligation to future generations. The project responds to challenges related to climate change, environmental pollution, and population growth. By developing terraforming technologies, we can secure our future, enabling humanity to survive and thrive in space. It is also a step toward greater independence from Earth’s resources, which may prove invaluable in the context of future challenges related to space exploration and the colonization of other planets.
-
-<img width="124" height="124" alt="17937" src="https://github.com/user-attachments/assets/b43fff2a-f14e-4318-b362-d5a0ff57f394" />
-<img width="124" height="124" alt="19754" src="https://github.com/user-attachments/assets/3a26f5a9-26d6-4446-9c79-941f0e48e081" />
-<img width="124" height="124" alt="19184" src="https://github.com/user-attachments/assets/52e57b76-81e5-4a13-a32a-01fa974387d5" />
-<img width="124" height="124" alt="19750" src="https://github.com/user-attachments/assets/f2a51575-dacf-4eda-91d9-fb5da3cf8c66" />
-<img width="124" height="124" alt="17900" src="https://github.com/user-attachments/assets/88b60384-6ee9-4300-996f-4a8f591a6fca" />
-<img width="124" height="124" alt="18342" src="https://github.com/user-attachments/assets/ff954682-20f1-4742-9ce3-eb3cde835580" />
-<img width="124" height="124" alt="19753" src="https://github.com/user-attachments/assets/1107b86b-34ee-446a-9334-b2781fbf048d" />
-<img width="1<img width="124" height="1536" alt="17760" src="https://github.com/user-attachments/assets/c495d36f-2efa-4d4d-acc2-3b1406c5b622" />
-<img width="124" height="124" alt="17940" src="https://github.com/user-attachments/assets/3e47106f-4d66-4c63-8052-7aa9ae3a31b9" />
-<img width="124" height="124" alt="18187" src="https://github.com/user-attachments/assets/3ff645e1-e4c4-4bda-aa0f-9dc3cb187305" />
-<img width="124" height="124" alt="18428" src="https://github.com/user-attachments/assets/66c55234-a28e-459e-a8ab-20d34db6912d" />
-<img width="124" height="124" alt="18516" src="https://github.com/user-attachments/assets/62de82c9-9752-4c16-9775-892b7895676c" />
-<img width="124" height="124" alt="19342" src="https://github.com/user-attachments/assets/c89eb420-64a3-4c2b-8542-b6818620e68f" />
-<img width="124" height="124" alt="19413" src="https://github.com/user-attachments/assets/d8f1382d-a026-47a5-b2c6-7a5e9901cf79" />
-<img width="124" height="124" alt="19658" src="https://github.com/user-attachments/assets/6575ac56-f74a-4157-bb9b-d02c68b62fe8" />
 
 
 Terraforming Planet 
