@@ -10,20 +10,9 @@ Nie jest to marketing ani deklaracja — to fundament architektury całego proje
 Wierzymy, że jeśli ludzkość nauczy się właściwie zarządzać wodą, ziemią i energią, konflikty można ograniczać u źródła, zanim w ogóle powstaną.
 
 
-<!-- START: clickable + lazy (no CSS so GitHub won't show code) -->
 
-<a href="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a?raw=1" target="_blank" rel="noopener">
-  <img width="124" height="124" loading="lazy" decoding="async" alt="17899"
-       src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />
-</a>
-
-<a href="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746?raw=1" target="_blank" rel="noopener">
-  <img width="124" height="124" loading="lazy" decoding="async" alt="19791"
-       src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
-</a>
-
-<!-- END -->
-
+<details>
+<summary><b>📷 Zobacz grafiki (ładowane po kliknięciu)</b></summary>
 <img width="124" height="124" alt="17899" src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />"
 <img width="124" height="124" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
 <img width="124" height="124" alt="17745" src="https://github.com/user-attachments/assets/1502b3f0-bc32-4266-8f91-fe36092aa2dc" />
@@ -53,6 +42,7 @@ Wierzymy, że jeśli ludzkość nauczy się właściwie zarządzać wodą, ziemi
 <img width="124" height="124" alt="19342" src="https://github.com/user-attachments/assets/c89eb420-64a3-4c2b-8542-b6818620e68f" />
 <img width="124" height="124" alt="19413" src="https://github.com/user-attachments/assets/d8f1382d-a026-47a5-b2c6-7a5e9901cf79" />
 <img width="124" height="124" alt="19658" src="https://github.com/user-attachments/assets/6575ac56-f74a-4157-bb9b-d02c68b62fe8" />
+</details>
 
 
 
