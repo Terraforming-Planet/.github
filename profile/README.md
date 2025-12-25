@@ -10,27 +10,19 @@ Nie jest to marketing ani deklaracja — to fundament architektury całego proje
 Wierzymy, że jeśli ludzkość nauczy się właściwie zarządzać wodą, ziemią i energią, konflikty można ograniczać u źródła, zanim w ogóle powstaną.
 
 
+<!-- START: clickable + lazy (no CSS so GitHub won't show code) -->
 
-** Rozwiazania Terraforming Planet **
+<a href="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a?raw=1" target="_blank" rel="noopener">
+  <img width="124" height="124" loading="lazy" decoding="async" alt="17899"
+       src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />
+</a>
 
-<!-- PASTE THIS BLOCK ABOVE YOUR IMAGES -->
-<style>
-  .tp-grid{display:flex;flex-wrap:wrap;gap:8px}
-  .tp-grid a{display:inline-block}
-  .tp-grid img{border-radius:10px}
-</style>
+<a href="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746?raw=1" target="_blank" rel="noopener">
+  <img width="124" height="124" loading="lazy" decoding="async" alt="19791"
+       src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
+</a>
 
-<div class="tp-grid">
-  <a href="assets/600/17899.webp" target="_blank" rel="noopener">
-    <img src="assets/thumbs/17899.webp" width="124" height="124"
-         loading="lazy" decoding="async" alt="17899">
-  </a>
-
-  <a href="assets/600/19791.webp" target="_blank" rel="noopener">
-    <img src="assets/thumbs/19791.webp" width="124" height="124"
-         loading="lazy" decoding="async" alt="19791">
-  </a>
-</div>
+<!-- END -->
 
 <img width="124" height="124" alt="17899" src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />"
 <img width="124" height="124" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
