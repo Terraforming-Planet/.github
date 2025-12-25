@@ -132,7 +132,6 @@ Wierzymy, że jeśli ludzkość nauczy się właściwie zarządzać wodą, ziemi
 <img width="124" height="124" alt="19342" src="https://github.com/user-attachments/assets/c89eb420-64a3-4c2b-8542-b6818620e68f" />
 <img width="124" height="124" alt="19413" src="https://github.com/user-attachments/assets/d8f1382d-a026-47a5-b2c6-7a5e9901cf79" />
 <img width="124" height="124" alt="19658" src="https://github.com/user-attachments/assets/6575ac56-f74a-4157-bb9b-d02c68b62fe8" />
-</details>
 
 
 
