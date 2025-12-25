@@ -1,3 +1,14 @@
+
+**Terraforming Planet** 
+```to niezależna fundacja technologiczno-inżynieryjna, której celem jest rozwiązywanie źródłowych przyczyn globalnych kryzysów humanitarnych i środowiskowych — a nie tylko ich skutków.```
+
+**Projektujemy i wdrażamy realne, fizyczne systemy inżynieryjne, które przywracają dostęp do wody, żywności, żyznej gleby oraz stabilnych lokalnych warunków klimatycznych.**
+
+```Nasze działania opierają się na nauce, inżynierii i długofalowej odpowiedzialności — ponad polityką i ponad granicami.
+50% wszystkich przychodów z licencjonowania naszych technologii jest trwale i strukturalnie przeznaczone na działalność fundacji.
+Nie jest to marketing ani deklaracja — to fundament architektury całego projektu.
+Wierzymy, że jeśli ludzkość nauczy się właściwie zarządzać wodą, ziemią i energią, konflikty można ograniczać u źródła, zanim w ogóle powstaną.```
+
 <img width="124" height="124" alt="17899" src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />
 <img width="124" height="124" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
 <img width="124" height="124" alt="17745" src="https://github.com/user-attachments/assets/1502b3f0-bc32-4266-8f91-fe36092aa2dc" />
@@ -31,21 +42,11 @@
 
 
 
-**Terraforming Planet** 
-to niezależna fundacja technologiczno-inżynieryjna, której celem jest rozwiązywanie źródłowych przyczyn globalnych kryzysów humanitarnych i środowiskowych — a nie tylko ich skutków.
-
-Projektujemy i wdrażamy realne, fizyczne systemy inżynieryjne, które przywracają dostęp do wody, żywności, żyznej gleby oraz stabilnych lokalnych warunków klimatycznych.
-Nasze działania opierają się na nauce, inżynierii i długofalowej odpowiedzialności — ponad polityką i ponad granicami.
-
-50% wszystkich przychodów z licencjonowania naszych technologii jest trwale i strukturalnie przeznaczone na działalność fundacji.
-Nie jest to marketing ani deklaracja — to fundament architektury całego projektu.
-
-Wierzymy, że jeśli ludzkość nauczy się właściwie zarządzać wodą, ziemią i energią, konflikty można ograniczać u źródła, zanim w ogóle powstaną.
 
 
 ---
 
-🌈 Zasady współpracy — jak społeczność może się zaangażować?
+💡Zasady współpracy — jak społeczność może się zaangażować?
 
 Nie musisz być darczyńcą, aby pomóc. Możesz współtworzyć, testować, analizować i zadawać trudne pytania.
 
