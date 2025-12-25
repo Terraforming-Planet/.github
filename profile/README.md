@@ -1,4 +1,3 @@
-
 <img width="124" height="124" alt="17899" src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />
 <img width="124" height="124" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
 <img width="124" height="124" alt="17745" src="https://github.com/user-attachments/assets/1502b3f0-bc32-4266-8f91-fe36092aa2dc" />
@@ -9,7 +8,6 @@
 <img width="124" height="124" alt="19237" src="https://github.com/user-attachments/assets/9d97e729-dc01-4f33-bbd0-166bbe47ddf1" />
 <img width="124" height="124" alt="19324" src="https://github.com/user-attachments/assets/d596c5a2-add5-400a-8258-f6acbc4a377a" />
 <img width="124" height="124" alt="17898" src="https://github.com/user-attachments/assets/67c3379d-df4c-4fae-b846-3c6de688c9aa" />
-
 <img width="124" height="124" alt="18925" src="https://github.com/user-attachments/assets/78d3dcee-5bf4-49d0-a077-4dd5b49dfa20" />
 <img width="124" height="124" alt="18931" src="https://github.com/user-attachments/assets/83b71b87-7882-47da-b63e-248c900066e8" />
 <img width="124" height="124" alt="19004" src="https://github.com/user-attachments/assets/09c27fbb-83c5-4b46-831e-e5a34080f567" />
@@ -702,50 +700,14 @@ Significance for the Future
 
 Terraforming Planet is not only a technical engineering achievement but also a moral obligation to future generations. The project responds to challenges related to climate change, environmental pollution, and population growth. By developing terraforming technologies, we can secure our future, enabling humanity to survive and thrive in space. It is also a step toward greater independence from Earth’s resources, which may prove invaluable in the context of future challenges related to space exploration and the colonization of other planets.
 
-
-<p align="center">
-  <a href="#img3">⬅️<img width="124" height="124" alt="17937" src="https://github.com/user-attachments/assets/b43fff2a-f14e-4318-b362-d5a0ff57f394" />
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="#img2">➡️<img width="124" height="124" alt="19754" src="https://github.com/user-attachments/assets/3a26f5a9-26d6-4446-9c79-941f0e48e081" />
-</p>
-
-
-<p align="center" id="img1">
-
-
-</p>
-
-
-<p align="center">
-  <a href="#img1">⬅️</a>
- <img width="124" height="124" alt="19184" src="https://github.com/user-attachments/assets/52e57b76-81e5-4a13-a32a-01fa974387d5" />
-
-  <a href="#img3">➡️</a>
-</p>
-
-
-<p align="center" id="img2">
+<img width="124" height="124" alt="17937" src="https://github.com/user-attachments/assets/b43fff2a-f14e-4318-b362-d5a0ff57f394" />
+<img width="124" height="124" alt="19754" src="https://github.com/user-attachments/assets/3a26f5a9-26d6-4446-9c79-941f0e48e081" />
+<img width="124" height="124" alt="19184" src="https://github.com/user-attachments/assets/52e57b76-81e5-4a13-a32a-01fa974387d5" />
 <img width="124" height="124" alt="19750" src="https://github.com/user-attachments/assets/f2a51575-dacf-4eda-91d9-fb5da3cf8c66" />
-
-</p>
-
-
-<p align="center">
-  <a href="#img2">⬅️</a>
-  &nbsp;&nbsp;&nbsp;<img width="124" height="124" alt="17900" src="https://github.com/user-attachments/assets/88b60384-6ee9-4300-996f-4a8f591a6fca" />
+<img width="124" height="124" alt="17900" src="https://github.com/user-attachments/assets/88b60384-6ee9-4300-996f-4a8f591a6fca" />
 <img width="124" height="124" alt="18342" src="https://github.com/user-attachments/assets/ff954682-20f1-4742-9ce3-eb3cde835580" />
-
-  <a href="#img1">➡️</a>
-</p>
-
-
-<p align="center" id="img3">
 <img width="124" height="124" alt="19753" src="https://github.com/user-attachments/assets/1107b86b-34ee-446a-9334-b2781fbf048d" />
-
-</p>
 <img width="1<img width="124" height="1536" alt="17760" src="https://github.com/user-attachments/assets/c495d36f-2efa-4d4d-acc2-3b1406c5b622" />
-
 <img width="124" height="124" alt="17940" src="https://github.com/user-attachments/assets/3e47106f-4d66-4c63-8052-7aa9ae3a31b9" />
 <img width="124" height="124" alt="18187" src="https://github.com/user-attachments/assets/3ff645e1-e4c4-4bda-aa0f-9dc3cb187305" />
 <img width="124" height="124" alt="18428" src="https://github.com/user-attachments/assets/66c55234-a28e-459e-a8ab-20d34db6912d" />
