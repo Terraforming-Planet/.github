@@ -9,9 +9,14 @@ Nasze działania opierają się na nauce, inżynierii i długofalowej odpowiedzi
 Nie jest to marketing ani deklaracja — to fundament architektury całego projektu.
 Wierzymy, że jeśli ludzkość nauczy się właściwie zarządzać wodą, ziemią i energią, konflikty można ograniczać u źródła, zanim w ogóle powstaną.
 
-
 <details>
-<summary><b>📷 Kliknij, aby załadować grafiki (szybciej)</b></summary>
+<summary>📷 Galeria (kliknij aby załadować)</summary>
+
+<img width="124" height="124" alt="17899" src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />
+<img width="124" height="124" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
+<!-- reszta Twoich <img> tutaj -->
+
+</details>
 <img width="124" height="124" alt="17899" src="https://github.com/user-attachments/assets/d0e62fdd-bddb-4792-840e-e660bf627f8a" />
 <img width="124" height="124" alt="19791" src="https://github.com/user-attachments/assets/7f10c60e-9a89-4ccd-9b32-b8be9c727746" />
 <img width="124" height="124" alt="17745" src="https://github.com/user-attachments/assets/1502b3f0-bc32-4266-8f91-fe36092aa2dc" />
