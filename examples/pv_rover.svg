@@ -1,0 +1,18 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1c2333" />
+      <stop offset="100%" stop-color="#3a4a62" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#sky)" />
+  <rect y="380" width="1200" height="220" fill="#7b5a3a" />
+  <rect x="380" y="280" width="440" height="120" rx="18" fill="#8896a7" />
+  <rect x="320" y="210" width="560" height="70" rx="12" fill="#1f6feb" />
+  <rect x="350" y="225" width="500" height="40" rx="8" fill="#0b1320" opacity="0.6" />
+  <circle cx="440" cy="420" r="48" fill="#2b2b2b" />
+  <circle cx="760" cy="420" r="48" fill="#2b2b2b" />
+  <rect x="500" y="320" width="200" height="60" rx="10" fill="#bcc7d6" />
+  <text x="70" y="90" fill="#f8f5f0" font-size="34" font-family="Arial, sans-serif">PV Rover</text>
+  <text x="70" y="130" fill="#d2d7df" font-size="20" font-family="Arial, sans-serif">Low light, dusty terrain</text>
+</svg>
