@@ -724,6 +724,6 @@ Significance for the Future
 Terraforming Planet is not only a technical engineering achievement but also a moral obligation to future generations. The project responds to challenges related to climate change, environmental pollution, and population growth. By developing terraforming technologies, we can secure our future, enabling humanity to survive and thrive in space. It is also a step toward greater independence from Earth’s resources, which may prove invaluable in the context of future challenges related to space exploration and the colonization of other planets.
 
 
-Terraforming Planet 
+**Terraforming Planet**
 
 
