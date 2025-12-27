@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Terraforming Prompt Builder</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&display=swap" />
+    <style>
+      :root {
+        color-scheme: light dark;
+        font-family: "Inter", system-ui, -apple-system, sans-serif;
+        background: #0d1117;
+        color: #f0f6fc;
+      }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+        background: radial-gradient(circle at top, #1f6feb 0%, #0d1117 55%);
+      }
+      .card {
+        width: min(920px, 100%);
+        background: #161b22;
+        border-radius: 16px;
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+        padding: 2.5rem;
+        display: grid;
+        gap: 2rem;
+      }
+      header {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+      h1 {
+        font-size: clamp(1.8rem, 3vw, 2.6rem);
+        margin: 0;
+      }
+      p {
+        margin: 0;
+        color: #8b949e;
+      }
+      form {
+        display: grid;
+        gap: 1.5rem;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      }
+      label {
+        display: flex;
+        flex-direction: column;
+        font-size: 0.9rem;
+        gap: 0.4rem;
+      }
+      select,
+      textarea,
+      button {
+        font: inherit;
+        border-radius: 10px;
+        border: 1px solid #30363d;
+        padding: 0.6rem 0.8rem;
+        background: #0d1117;
+        color: inherit;
+      }
+      textarea {
+        min-height: 140px;
+        resize: vertical;
+      }
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+      }
+      button {
+        cursor: pointer;
+        border: none;
+        background: #238636;
+        color: #fff;
+        padding: 0.75rem 1.5rem;
+        font-weight: 600;
+        transition: transform 0.2s ease;
+      }
+      button.secondary {
+        background: #30363d;
+      }
+      button:hover {
+        transform: translateY(-1px);
+      }
+      .output {
+        display: grid;
+        gap: 1rem;
+      }
+      .footer {
+        font-size: 0.85rem;
+        color: #8b949e;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="card">
+      <header>
+        <h1>Terraforming Prompt Builder</h1>
+        <p>Wypełnij parametry, aby wygenerować prompt do Image Gen.</p>
+      </header>
+
+      <form id="prompt-form">
+        <label>
+          Tryb
+          <select id="mode" required>
+            <option value="terrain">Terrain (before/after)</option>
+            <option value="rover">PV Rover</option>
+          </select>
+        </label>
+        <label>
+          Klimat
+          <select id="climate">
+            <option value="suchy">suchy</option>
+            <option value="umiarkowany">umiarkowany</option>
+            <option value="mroźny">mroźny</option>
+          </select>
+        </label>
+        <label>
+          Geologia
+          <select id="geology">
+            <option value="kraterowy">kraterowy</option>
+            <option value="kanionowy">kanionowy</option>
+            <option value="równiny">równiny</option>
+          </select>
+        </label>
+        <label>
+          Skala
+          <select id="scale">
+            <option value="makro">makro</option>
+            <option value="mezzo">mezzo</option>
+            <option value="mikro">mikro</option>
+          </select>
+        </label>
+        <label>
+          Styl
+          <select id="style">
+            <option value="realistyczny">realistyczny</option>
+            <option value="koncept art">koncept art</option>
+          </select>
+        </label>
+        <label style="grid-column: 1 / -1;">
+          Notatki (opcjonalnie)
+          <textarea id="notes" placeholder="Dodatkowe wskazówki, np. typ oświetlenia czy paleta kolorów."></textarea>
+        </label>
+      </form>
+
+      <section class="output">
+        <div class="actions">
+          <button id="generate" type="button">Generuj prompt</button>
+          <button id="copy" class="secondary" type="button">Kopiuj do schowka</button>
+        </div>
+        <label>
+          Prompt
+          <textarea id="prompt-output" readonly></textarea>
+        </label>
+      </section>
+
+      <p class="footer">Tip: użyj wygenerowanego promptu w CLI (scripts/generate.py).</p>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

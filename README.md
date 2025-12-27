@@ -498,3 +498,48 @@ Platforma korzysta z najnowszych algorytmów uczenia maszynowego i deep learning
 ChatGpu to przyszłość przetwarzania wizualnego. Dzięki zaawansowanej technologii i naciskowi na bezpieczeństwo, platforma ta zmienia sposób, w jaki firmy i twórcy podchodzą do produkcji graficznej i wideo.
 
 😊
+
+---
+
+## Terraforming Image Gen Toolkit
+
+### Frontend
+Prosty frontend znajduje się w `web/index.html`. Otwórz plik w przeglądarce i wygeneruj prompt na podstawie parametrów.
+
+### CLI / Backend (Image Gen)
+
+1. Zainstaluj zależności:
+
+```bash
+pip install -r requirements.txt
+```
+
+2. Ustaw klucz API i wygeneruj obraz:
+
+```bash
+export OPENAI_API_KEY=twoj_klucz
+python scripts/generate.py --mode terrain --climate suchy --geology kraterowy --scale makro --style "realistyczny"
+```
+
+3. Wersja testowa (bez wywołania API):
+
+```bash
+python scripts/generate.py --mode rover --climate mroźny --geology kanionowy --scale mezzo --style "koncept art" --dry-run
+```
+
+Wyniki zapisywane są w `outputs/` jako plik PNG oraz JSON z metadanymi promptu.
+
+### Szablony promptów
+
+- **Terrain (before/after)**: dwa obrazy w jednej kompozycji, "before" po lewej, "after" po prawej.
+- **PV Rover**: pojazd z panelami PV dopasowany do terenu i warunków (pył, niskie światło).
+
+### Przykładowe prompty i wyniki
+
+- `examples/terrain_before_after.svg`
+- `examples/pv_rover.svg`
+- `examples/terrain_concept.svg`
+
+### Ważne
+
+- **Nie commituj kluczy API**. Używaj zmiennych środowiskowych (`OPENAI_API_KEY`).
