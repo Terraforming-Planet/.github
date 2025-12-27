@@ -2,6 +2,9 @@ const form = document.getElementById("prompt-form");
 const output = document.getElementById("prompt-output");
 const generateButton = document.getElementById("generate");
 const copyButton = document.getElementById("copy");
+const chatForm = document.getElementById("chat-form");
+const chatInput = document.getElementById("chat-input");
+const chatMessages = document.getElementById("chat-messages");
 
 const templates = {
   terrain: ({ climate, geology, scale, style, notes }) => {
@@ -21,6 +24,13 @@ const templates = {
       `${notes ? `Dodatkowe wskazówki: ${notes}` : ""}`.trim();
   }
 };
+
+const chatReplies = [
+  "Super! Dodaję to do opisu: delikatna mgła i chłodne światło bazy.",
+  "Rozumiem. Zasugerujmy pył w powietrzu i miękkie cienie od paneli PV.",
+  "Zapisałem! Utrzymamy realizm i dodamy subtelne ślady przejazdu.",
+  "Świetny pomysł. Zwiększymy kontrast terenu i podkreślimy refleksy na panelach."
+];
 
 const buildPrompt = () => {
   const mode = document.getElementById("mode").value;
@@ -43,6 +53,19 @@ const updateOutput = () => {
   output.value = buildPrompt();
 };
 
+const addMessage = (text, role) => {
+  const message = document.createElement("div");
+  message.className = `message ${role}`;
+  message.textContent = text;
+  chatMessages.appendChild(message);
+  chatMessages.scrollTop = chatMessages.scrollHeight;
+};
+
+const getFakeReply = () => {
+  const reply = chatReplies[Math.floor(Math.random() * chatReplies.length)];
+  return `✅ ${reply} (symulacja generowania obrazu)`;
+};
+
 generateButton.addEventListener("click", updateOutput);
 
 copyButton.addEventListener("click", async () => {
@@ -54,6 +77,27 @@ copyButton.addEventListener("click", async () => {
   setTimeout(() => {
     copyButton.textContent = "Kopiuj do schowka";
   }, 2000);
+});
+
+chatForm.addEventListener("submit", (event) => {
+  event.preventDefault();
+  const text = chatInput.value.trim();
+  if (!text) {
+    return;
+  }
+  addMessage(text, "user");
+  chatInput.value = "";
+
+  const typingIndicator = document.createElement("div");
+  typingIndicator.className = "message ai";
+  typingIndicator.textContent = "Generuję podgląd...";
+  chatMessages.appendChild(typingIndicator);
+  chatMessages.scrollTop = chatMessages.scrollHeight;
+
+  setTimeout(() => {
+    typingIndicator.remove();
+    addMessage(getFakeReply(), "ai");
+  }, 700);
 });
 
 updateOutput();

@@ -543,3 +543,7 @@ Wyniki zapisywane są w `outputs/` jako plik PNG oraz JSON z metadanymi promptu.
 ### Ważne
 
 - **Nie commituj kluczy API**. Używaj zmiennych środowiskowych (`OPENAI_API_KEY`).
+
+### Czat (fikcja)
+
+Frontend zawiera prosty panel czatu, który symuluje generowanie obrazów i podpowiedzi (bez rzeczywistego wywołania API). To tylko wizualna makieta interakcji.

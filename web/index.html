@@ -22,7 +22,7 @@
         background: radial-gradient(circle at top, #1f6feb 0%, #0d1117 55%);
       }
       .card {
-        width: min(920px, 100%);
+        width: min(1100px, 100%);
         background: #161b22;
         border-radius: 16px;
         box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
@@ -43,6 +43,11 @@
         margin: 0;
         color: #8b949e;
       }
+      .layout {
+        display: grid;
+        gap: 2rem;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      }
       form {
         display: grid;
         gap: 1.5rem;
@@ -56,6 +61,7 @@
       }
       select,
       textarea,
+      input,
       button {
         font: inherit;
         border-radius: 10px;
@@ -92,6 +98,44 @@
         display: grid;
         gap: 1rem;
       }
+      .chat {
+        display: grid;
+        gap: 1rem;
+        background: #0b1016;
+        border-radius: 16px;
+        padding: 1.5rem;
+        border: 1px solid #30363d;
+      }
+      .chat-messages {
+        display: grid;
+        gap: 0.75rem;
+        max-height: 280px;
+        overflow-y: auto;
+        padding-right: 0.5rem;
+      }
+      .message {
+        padding: 0.75rem 1rem;
+        border-radius: 12px;
+        font-size: 0.9rem;
+        line-height: 1.4;
+      }
+      .message.user {
+        background: #1f6feb;
+        color: #fff;
+        justify-self: end;
+      }
+      .message.ai {
+        background: #21262d;
+        color: #d0d7de;
+      }
+      .chat form {
+        display: flex;
+        gap: 0.75rem;
+        grid-template-columns: none;
+      }
+      .chat input {
+        flex: 1;
+      }
       .footer {
         font-size: 0.85rem;
         color: #8b949e;
@@ -105,61 +149,79 @@
         <p>Wypełnij parametry, aby wygenerować prompt do Image Gen.</p>
       </header>
 
-      <form id="prompt-form">
-        <label>
-          Tryb
-          <select id="mode" required>
-            <option value="terrain">Terrain (before/after)</option>
-            <option value="rover">PV Rover</option>
-          </select>
-        </label>
-        <label>
-          Klimat
-          <select id="climate">
-            <option value="suchy">suchy</option>
-            <option value="umiarkowany">umiarkowany</option>
-            <option value="mroźny">mroźny</option>
-          </select>
-        </label>
-        <label>
-          Geologia
-          <select id="geology">
-            <option value="kraterowy">kraterowy</option>
-            <option value="kanionowy">kanionowy</option>
-            <option value="równiny">równiny</option>
-          </select>
-        </label>
-        <label>
-          Skala
-          <select id="scale">
-            <option value="makro">makro</option>
-            <option value="mezzo">mezzo</option>
-            <option value="mikro">mikro</option>
-          </select>
-        </label>
-        <label>
-          Styl
-          <select id="style">
-            <option value="realistyczny">realistyczny</option>
-            <option value="koncept art">koncept art</option>
-          </select>
-        </label>
-        <label style="grid-column: 1 / -1;">
-          Notatki (opcjonalnie)
-          <textarea id="notes" placeholder="Dodatkowe wskazówki, np. typ oświetlenia czy paleta kolorów."></textarea>
-        </label>
-      </form>
+      <div class="layout">
+        <section>
+          <form id="prompt-form">
+            <label>
+              Tryb
+              <select id="mode" required>
+                <option value="terrain">Terrain (before/after)</option>
+                <option value="rover">PV Rover</option>
+              </select>
+            </label>
+            <label>
+              Klimat
+              <select id="climate">
+                <option value="suchy">suchy</option>
+                <option value="umiarkowany">umiarkowany</option>
+                <option value="mroźny">mroźny</option>
+              </select>
+            </label>
+            <label>
+              Geologia
+              <select id="geology">
+                <option value="kraterowy">kraterowy</option>
+                <option value="kanionowy">kanionowy</option>
+                <option value="równiny">równiny</option>
+              </select>
+            </label>
+            <label>
+              Skala
+              <select id="scale">
+                <option value="makro">makro</option>
+                <option value="mezzo">mezzo</option>
+                <option value="mikro">mikro</option>
+              </select>
+            </label>
+            <label>
+              Styl
+              <select id="style">
+                <option value="realistyczny">realistyczny</option>
+                <option value="koncept art">koncept art</option>
+              </select>
+            </label>
+            <label style="grid-column: 1 / -1;">
+              Notatki (opcjonalnie)
+              <textarea id="notes" placeholder="Dodatkowe wskazówki, np. typ oświetlenia czy paleta kolorów."></textarea>
+            </label>
+          </form>
 
-      <section class="output">
-        <div class="actions">
-          <button id="generate" type="button">Generuj prompt</button>
-          <button id="copy" class="secondary" type="button">Kopiuj do schowka</button>
-        </div>
-        <label>
-          Prompt
-          <textarea id="prompt-output" readonly></textarea>
-        </label>
-      </section>
+          <section class="output">
+            <div class="actions">
+              <button id="generate" type="button">Generuj prompt</button>
+              <button id="copy" class="secondary" type="button">Kopiuj do schowka</button>
+            </div>
+            <label>
+              Prompt
+              <textarea id="prompt-output" readonly></textarea>
+            </label>
+          </section>
+        </section>
+
+        <section class="chat">
+          <div>
+            <h2>Czat</h2>
+            <p>Symulacja rozmowy z generatorem obrazów (fikcja).</p>
+          </div>
+          <div id="chat-messages" class="chat-messages">
+            <div class="message ai">Witaj! Opisz, jaki obraz terraformowania chcesz wygenerować.</div>
+          </div>
+          <form id="chat-form">
+            <input id="chat-input" type="text" placeholder="Np. Dodaj mglistą atmosferę i światła bazy." />
+            <button type="submit">Wyślij</button>
+          </form>
+        </section>
+      </div>
 
       <p class="footer">Tip: użyj wygenerowanego promptu w CLI (scripts/generate.py).</p>
     </main>
