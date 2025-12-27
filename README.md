@@ -547,3 +547,8 @@ Wyniki zapisywane są w `outputs/` jako plik PNG oraz JSON z metadanymi promptu.
 ### Czat (fikcja)
 
 Frontend zawiera prosty panel czatu, który symuluje generowanie obrazów i podpowiedzi (bez rzeczywistego wywołania API). To tylko wizualna makieta interakcji.
+
+### Menu główne i logowanie
+
+W widoku frontendowym dodano menu główne oraz prosty panel logowania (tylko UI). Po zalogowaniu można korzystać z czatu i dodawać własne pomysły graficzne do sekcji "Pomysły graficzne".
+Logowanie i zapisywanie pomysłów są lokalną symulacją bez backendu.

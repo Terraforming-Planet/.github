@@ -5,6 +5,15 @@ const copyButton = document.getElementById("copy");
 const chatForm = document.getElementById("chat-form");
 const chatInput = document.getElementById("chat-input");
 const chatMessages = document.getElementById("chat-messages");
+const loginForm = document.getElementById("login-form");
+const logoutButton = document.getElementById("logout");
+const loginStatus = document.getElementById("login-status");
+const ideaForm = document.getElementById("idea-form");
+const ideaTitle = document.getElementById("idea-title");
+const ideaDescription = document.getElementById("idea-description");
+const ideaList = document.getElementById("idea-list");
+
+let currentUser = null;
 
 const templates = {
   terrain: ({ climate, geology, scale, style, notes }) => {
@@ -66,6 +75,34 @@ const getFakeReply = () => {
   return `✅ ${reply} (symulacja generowania obrazu)`;
 };
 
+const setLoginStatus = () => {
+  if (currentUser) {
+    loginStatus.textContent = `Zalogowano jako ${currentUser}.`;
+  } else {
+    loginStatus.textContent = "Nie zalogowano.";
+  }
+};
+
+const addIdeaCard = (title, description, author) => {
+  const card = document.createElement("div");
+  card.className = "idea-card";
+
+  const heading = document.createElement("h3");
+  heading.textContent = title;
+
+  const meta = document.createElement("p");
+  meta.className = "footer";
+  meta.textContent = author ? `Dodane przez ${author}` : "Dodane anonimowo";
+
+  const body = document.createElement("p");
+  body.textContent = description || "(Brak opisu)";
+
+  card.appendChild(heading);
+  card.appendChild(meta);
+  card.appendChild(body);
+  ideaList.prepend(card);
+};
+
 generateButton.addEventListener("click", updateOutput);
 
 copyButton.addEventListener("click", async () => {
@@ -100,4 +137,37 @@ chatForm.addEventListener("submit", (event) => {
   }, 700);
 });
 
+loginForm.addEventListener("submit", (event) => {
+  event.preventDefault();
+  const username = document.getElementById("username").value.trim();
+  if (!username) {
+    return;
+  }
+  currentUser = username;
+  setLoginStatus();
+  addMessage(`Cześć ${currentUser}! Możesz teraz dodawać pomysły.`, "ai");
+});
+
+logoutButton.addEventListener("click", () => {
+  if (!currentUser) {
+    return;
+  }
+  addMessage(`Użytkownik ${currentUser} został wylogowany.`, "ai");
+  currentUser = null;
+  setLoginStatus();
+  loginForm.reset();
+});
+
+ideaForm.addEventListener("submit", (event) => {
+  event.preventDefault();
+  const title = ideaTitle.value.trim();
+  const description = ideaDescription.value.trim();
+  if (!title) {
+    return;
+  }
+  addIdeaCard(title, description, currentUser);
+  ideaForm.reset();
+});
+
+setLoginStatus();
 updateOutput();

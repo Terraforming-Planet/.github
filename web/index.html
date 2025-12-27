@@ -17,11 +17,17 @@
         min-height: 100vh;
         display: flex;
         justify-content: center;
+        align-items: stretch;
         align-items: center;
         padding: 2rem;
         background: radial-gradient(circle at top, #1f6feb 0%, #0d1117 55%);
       }
       .card {
+        width: min(1200px, 100%);
+        background: #161b22;
+        border-radius: 16px;
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+        padding: 2rem;
         width: min(1100px, 100%);
         background: #161b22;
         border-radius: 16px;
@@ -39,15 +45,48 @@
         font-size: clamp(1.8rem, 3vw, 2.6rem);
         margin: 0;
       }
+      h2 {
+        margin: 0;
+        font-size: 1.2rem;
+      }
       p {
         margin: 0;
         color: #8b949e;
+      }
+      nav {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1rem;
+      }
+      .menu {
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap;
+      }
+      .menu button {
+        background: #30363d;
+      }
+      .menu button.active {
+        background: #238636;
       }
       .layout {
         display: grid;
         gap: 2rem;
         grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
       }
+      .sidebar {
+        display: grid;
+        gap: 1.5rem;
+        background: #0b1016;
+        border-radius: 16px;
+        padding: 1.5rem;
+        border: 1px solid #30363d;
+      }
+      form {
+        display: grid;
+        gap: 1rem;
       form {
         display: grid;
         gap: 1.5rem;
@@ -109,6 +148,7 @@
       .chat-messages {
         display: grid;
         gap: 0.75rem;
+        max-height: 260px;
         max-height: 280px;
         overflow-y: auto;
         padding-right: 0.5rem;
@@ -136,6 +176,28 @@
       .chat input {
         flex: 1;
       }
+      .ideas {
+        display: grid;
+        gap: 1rem;
+        background: #0b1016;
+        border-radius: 16px;
+        padding: 1.5rem;
+        border: 1px solid #30363d;
+      }
+      .idea-list {
+        display: grid;
+        gap: 0.75rem;
+      }
+      .idea-card {
+        padding: 0.75rem 1rem;
+        border-radius: 12px;
+        border: 1px solid #30363d;
+        background: #161b22;
+      }
+      .idea-card h3 {
+        margin: 0 0 0.25rem 0;
+        font-size: 1rem;
+      }
       .footer {
         font-size: 0.85rem;
         color: #8b949e;
@@ -144,6 +206,42 @@
   </head>
   <body>
     <main class="card">
+      <nav>
+        <header>
+          <h1>Terraforming Prompt Builder</h1>
+          <p>Wypełnij parametry, aby wygenerować prompt do Image Gen.</p>
+        </header>
+        <div class="menu">
+          <button type="button" class="active">Panel główny</button>
+          <button type="button">Generator</button>
+          <button type="button">Czat</button>
+          <button type="button">Pomysły</button>
+        </div>
+      </nav>
+
+      <div class="layout">
+        <aside class="sidebar">
+          <div>
+            <h2>Logowanie</h2>
+            <p>Zaloguj się, aby zapisywać pomysły i czatować.</p>
+          </div>
+          <form id="login-form">
+            <label>
+              Nazwa użytkownika
+              <input id="username" type="text" placeholder="np. Explorer01" required />
+            </label>
+            <label>
+              Hasło
+              <input id="password" type="password" placeholder="••••••••" required />
+            </label>
+            <div class="actions">
+              <button type="submit">Zaloguj</button>
+              <button id="logout" class="secondary" type="button">Wyloguj</button>
+            </div>
+          </form>
+          <p id="login-status" class="footer">Nie zalogowano.</p>
+        </aside>
+
       <header>
         <h1>Terraforming Prompt Builder</h1>
         <p>Wypełnij parametry, aby wygenerować prompt do Image Gen.</p>
@@ -220,6 +318,27 @@
             <input id="chat-input" type="text" placeholder="Np. Dodaj mglistą atmosferę i światła bazy." />
             <button type="submit">Wyślij</button>
           </form>
+        </section>
+
+        <section class="ideas">
+          <div>
+            <h2>Pomysły graficzne</h2>
+            <p>Dodawaj koncepcje związane z terraformacją i zapisuj je poniżej.</p>
+          </div>
+          <form id="idea-form">
+            <label>
+              Tytuł pomysłu
+              <input id="idea-title" type="text" placeholder="np. Zielone doliny po burzy pyłowej" required />
+            </label>
+            <label style="grid-column: 1 / -1;">
+              Opis
+              <textarea id="idea-description" placeholder="Krótki opis ujęcia, kolorystyki, nastroju."></textarea>
+            </label>
+            <div class="actions">
+              <button type="submit">Dodaj pomysł</button>
+            </div>
+          </form>
+          <div id="idea-list" class="idea-list"></div>
         </section>
       </div>
 
