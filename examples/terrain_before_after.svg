@@ -1,0 +1,22 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#2a2e45" />
+      <stop offset="100%" stop-color="#5b6b8f" />
+    </linearGradient>
+    <linearGradient id="afterSky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#74c2f8" />
+      <stop offset="100%" stop-color="#d2f1ff" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#sky)" />
+  <rect x="600" width="600" height="600" fill="url(#afterSky)" />
+  <rect y="360" width="600" height="240" fill="#4d3b2f" />
+  <rect x="600" y="360" width="600" height="240" fill="#3b6b3f" />
+  <path d="M0 420 L120 380 L280 420 L420 390 L600 430 L600 600 L0 600 Z" fill="#6c5240" />
+  <path d="M600 420 L740 360 L900 420 L1040 380 L1200 430 L1200 600 L600 600 Z" fill="#4f8c54" />
+  <circle cx="140" cy="140" r="40" fill="#c8a56a" opacity="0.7" />
+  <circle cx="940" cy="140" r="45" fill="#ffe08a" opacity="0.9" />
+  <text x="40" y="70" fill="#f8e9d2" font-size="36" font-family="Arial, sans-serif">Before</text>
+  <text x="660" y="70" fill="#1f2933" font-size="36" font-family="Arial, sans-serif">After</text>
+</svg>

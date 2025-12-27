@@ -1,0 +1,11 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="600" fill="#0c0f1a" />
+  <circle cx="950" cy="140" r="70" fill="#5dd3ff" opacity="0.6" />
+  <path d="M0 420 C200 350, 400 520, 600 440 C800 360, 1000 520, 1200 430 L1200 600 L0 600 Z" fill="#2c5b4f" />
+  <path d="M0 480 C240 410, 420 560, 640 470 C860 390, 1060 540, 1200 480 L1200 600 L0 600 Z" fill="#3b7a5f" />
+  <rect x="160" y="220" width="240" height="120" rx="18" fill="#ffb454" />
+  <rect x="460" y="180" width="320" height="160" rx="20" fill="#ffd37a" />
+  <rect x="820" y="240" width="200" height="100" rx="16" fill="#ff9b54" />
+  <text x="60" y="90" fill="#fef8e7" font-size="34" font-family="Arial, sans-serif">Terraforming Concept</text>
+  <text x="60" y="130" fill="#d2e7e3" font-size="20" font-family="Arial, sans-serif">Makro skala • Koncept art</text>
+</svg>
