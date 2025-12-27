@@ -551,3 +551,4 @@ Frontend zawiera prosty panel czatu, który symuluje generowanie obrazów i podp
 ### Menu główne i logowanie
 
 W widoku frontendowym dodano menu główne oraz prosty panel logowania (tylko UI). Po zalogowaniu można korzystać z czatu i dodawać własne pomysły graficzne do sekcji "Pomysły graficzne".
+Logowanie i zapisywanie pomysłów są lokalną symulacją bez backendu.
