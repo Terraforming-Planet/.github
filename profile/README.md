@@ -3,6 +3,7 @@
 ```to niezależna fundacja technologiczno-inżynieryjna, której celem jest rozwiązywanie źródłowych przyczyn globalnych kryzysów humanitarnych i środowiskowych — a nie tylko ich skutków.```
 
 **Projektujemy i wdrażamy realne, fizyczne systemy inżynieryjne, które przywracają dostęp do wody, żywności, żyznej gleby oraz stabilnych lokalnych warunków klimatycznych.**
+<img width="1536" height="1024" alt="25789" src="https://github.com/user-attachments/assets/37459ac0-66d8-44c5-8cbb-82a5bc438997" />
 
 Nasze działania opierają się na nauce, inżynierii i długofalowej odpowiedzialności — ponad polityką i ponad granicami.
 50% wszystkich przychodów z licencjonowania naszych technologii jest trwale i strukturalnie przeznaczone na działalność fundacji.
