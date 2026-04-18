@@ -135,6 +135,8 @@ Dzień dobry,
 
 zwracam się z prośbą o przygotowanie kompleksowej umowy (oraz ewentualnych klauzul powiązanych) regulującej licencjonowanie moich patentów, technologii oraz know-how, z uwzględnieniem poniższych, nienegocjowalnych i trwałych założeń, które muszą zostać jednoznacznie zapisane w dokumentach prawnych.
 
+<img width="1536" height="1024" alt="21756" src="https://github.com/user-attachments/assets/d67dada4-3b92-4f98-9743-21c706437201" />
+<img width="1536" height="1024" alt="22539" src="https://github.com/user-attachments/assets/7cc64f7b-e667-4e6c-a609-616f05c5f8d0" />
 
 1. Fundacja „Terraforming Planet”
 
