@@ -1,3 +1,4 @@
+<img width="1024" height="1536" alt="25836" src="https://github.com/user-attachments/assets/97e0d357-e87f-4a2d-b5ed-db0e9ba8254b" />
 
 **Terraforming Planet** 
 ```to niezależna fundacja technologiczno-inżynieryjna, której celem jest rozwiązywanie źródłowych przyczyn globalnych kryzysów humanitarnych i środowiskowych — a nie tylko ich skutków.```
