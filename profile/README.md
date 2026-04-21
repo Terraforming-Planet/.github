@@ -732,3 +732,4 @@ Terraforming Planet is not only a technical engineering achievement but also a m
 
 <img width="1536" height="1024" alt="24062" src="https://github.com/user-attachments/assets/0f33c097-880f-4e7f-bcd3-f3e2e075d78e" />
 
+<img width="1024" height="1536" alt="26112" src="https://github.com/user-attachments/assets/3b2e79fa-037f-481c-80cd-70b17a16c448" />
